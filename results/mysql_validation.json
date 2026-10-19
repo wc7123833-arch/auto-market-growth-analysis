@@ -1,0 +1,10 @@
+{
+  "engine": "MySQL",
+  "version": "8.0.46",
+  "database": "auto_market_learning_20261018",
+  "fact_rows": 54918,
+  "total_sales": 71650793,
+  "checks": 50,
+  "all_passed": true,
+  "executed_utc": "2026-10-18T12:52:11.425856+00:00"
+}

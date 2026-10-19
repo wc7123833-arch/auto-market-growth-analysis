@@ -1,0 +1,14 @@
+﻿series_name,date,source_value,source_url,monthly_sales,matches,verified_on,method
+Model 3,2022-01-01,2988,https://www.pcauto.com.cn/jxwd/4132/41326406.html,2988,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+Model 3,2022-02-01,4607,https://www.pcauto.com.cn/jxwd/4132/41326406.html,4607,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+Model 3,2024-06-01,18151,https://m.pcauto.com.cn/x/5105/51055697.html,18151,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+Model 3,2025-12-01,27969,https://m.pcauto.com.cn/x/5105/51055697.html,27969,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+别克GL8,2024-12-01,8877,https://www.pcauto.com.cn/jxwd/5105/51055509.html,8877,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+别克GL8,2025-01-01,5980,https://www.pcauto.com.cn/jxwd/5105/51055509.html,5980,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+别克GL8,2025-06-01,3830,https://www.pcauto.com.cn/jxwd/5105/51055509.html,3830,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+别克GL8,2025-12-01,3852,https://www.pcauto.com.cn/jxwd/5105/51055509.html,3852,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+岚图梦想家,2024-12-01,10116,https://www.pcauto.com.cn/jxwd/5105/51055836.html,10116,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+岚图梦想家,2025-01-01,6071,https://www.pcauto.com.cn/jxwd/5105/51055836.html,6071,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+岚图梦想家,2025-12-01,7008,https://www.pcauto.com.cn/jxwd/5105/51055836.html,7008,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+腾势D9,2025-12-01,8439,https://www.pcauto.com.cn/jxwd/5105/51054990.html,8439,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样
+魏牌 高山,2025-12-01,10558,https://www.pcauto.com.cn/jxwd/5105/51054919.html,10558,True,2026-10-18,同源页面人工抽查；定向样本，非随机抽样

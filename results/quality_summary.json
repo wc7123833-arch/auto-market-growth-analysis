@@ -1,0 +1,37 @@
+{
+  "sales_rows": 54918,
+  "series_count": 1017,
+  "brand_count": 162,
+  "date_min": "2022-01",
+  "date_max": "2026-06",
+  "duplicate_rows": 0,
+  "missing_grid_rows": 0,
+  "missing_sales": 0,
+  "negative_sales": 0,
+  "zero_rows": 38693,
+  "all_zero_series": 530,
+  "active_series_ever": 487,
+  "positive_rows": 16225,
+  "anomaly_flags": 568,
+  "config_rows": 2084,
+  "config_unique_series": 766,
+  "config_matched_series": 379,
+  "config_future_name_rows": 146,
+  "config_2025_sales_coverage": 0.9241890488329384,
+  "zero_positions": {
+    "all_zero_series": 28620,
+    "positive": 16225,
+    "before_first_positive": 7647,
+    "after_last_positive": 2088,
+    "between_positive_months": 338
+  },
+  "category_counts": {
+    "MPV": 122,
+    "SUV": 374,
+    "轿车": 521
+  },
+  "mpv_series": 122,
+  "mpv_active_2025": 60,
+  "spot_checks": 13,
+  "spot_matches": 13
+}

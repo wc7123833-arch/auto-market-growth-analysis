@@ -1,0 +1,2085 @@
+﻿series_name_config,config_series_id,pcauto_series_id,series_id,series_name,year,mapping_status,id_agrees
+五菱荣光,1291,1291,,,2022,unmatched,False
+五菱荣光,1291,1291,,,2023,unmatched,False
+五菱之光,1292,1292,,,2023,unmatched,False
+五菱荣光V,1293,1293,,,2019,unmatched,False
+五菱荣光V,1293,1293,,,2020,unmatched,False
+长安UNI-Z,24540,24540,,,2025,unmatched,False
+长安UNI-Z,24540,24540,,,2026,unmatched,False
+五菱之光EV,24927,24927,,,2025,unmatched,False
+风云X3,25544,25544,,,2025,unmatched,False
+风云X3,25544,25544,,,2026,unmatched,False
+华境S,25695,25695,,,2026,unmatched,False
+北汽L6H,25741,25741,,,2026,unmatched,False
+长安之星9 EV,3022,3022,,,2021,unmatched,False
+长安之星9 EV,3022,3022,,,2022,unmatched,False
+长安之星9 EV,3022,3022,,,2023,unmatched,False
+长安之星9 EV,3022,3022,,,2024,unmatched,False
+五菱宏光V,3192,3192,,,2022,unmatched,False
+五菱荣光EV,4320,4320,,,2026,unmatched,False
+Polestar 3,5356,5356,,,2024,unmatched,False
+新龙马汽车启腾M70,558,558,,,2022,unmatched,False
+江豚,5855,5855,,,2023,unmatched,False
+瑞驰EC75,9255,9255,,,2024,unmatched,False
+瑞驰EC75,9255,9255,,,2025,unmatched,False
+瑞驰EC75,9255,9255,,,2026,unmatched,False
+标致2008,sg10059,sg10059,,,2022,unmatched,False
+马自达3 昂克赛拉,1014,sg10280,10280.0,马自达3 昂克赛拉,2022,normalized_name_match,True
+马自达3 昂克赛拉,1014,sg10280,10280.0,马自达3 昂克赛拉,2023,normalized_name_match,True
+马自达3 昂克赛拉,1014,sg10280,10280.0,马自达3 昂克赛拉,2024,normalized_name_match,True
+马自达3 昂克赛拉,1014,sg10280,10280.0,马自达3 昂克赛拉,2025,normalized_name_match,True
+马自达3 昂克赛拉,1014,sg10280,10280.0,马自达3 昂克赛拉,2026,normalized_name_match,True
+创酷,1357,sg10400,,,2023,unmatched,False
+别克GL8,353,sg106,106.0,别克GL8,2022,normalized_name_match,True
+别克GL8,353,sg106,106.0,别克GL8,2023,normalized_name_match,True
+别克GL8,353,sg106,106.0,别克GL8,2024,normalized_name_match,True
+别克GL8,353,sg106,106.0,别克GL8,2025,normalized_name_match,True
+别克GL8,353,sg106,106.0,别克GL8,2026,normalized_name_match,True
+艾瑞泽5,1081,sg10660,10660.0,艾瑞泽5,2022,normalized_name_match,True
+艾瑞泽5,1081,sg10660,10660.0,艾瑞泽5,2023,normalized_name_match,True
+艾瑞泽5,1081,sg10660,10660.0,艾瑞泽5,2024,normalized_name_match,True
+艾瑞泽5,1081,sg10660,10660.0,艾瑞泽5,2025,normalized_name_match,True
+艾瑞泽5,1081,sg10660,10660.0,艾瑞泽5,2026,normalized_name_match,True
+途胜L,sg1074,sg1074,1074.0,途胜L,2022,normalized_name_match,True
+途胜L,sg1074,sg1074,1074.0,途胜L,2023,normalized_name_match,True
+途胜L,sg1074,sg1074,1074.0,途胜L,2024,normalized_name_match,True
+途胜L,sg1074,sg1074,1074.0,途胜L,2025,normalized_name_match,True
+途胜L,sg1074,sg1074,1074.0,途胜L,2026,normalized_name_match,True
+缤智,288,sg10791,10791.0,缤智,2022,normalized_name_match,True
+缤智,288,sg10791,10791.0,缤智,2023,normalized_name_match,True
+缤智,288,sg10791,10791.0,缤智,2024,normalized_name_match,True
+缤智,288,sg10791,10791.0,缤智,2025,normalized_name_match,True
+缤智,288,sg10791,10791.0,缤智,2026,normalized_name_match,True
+雷凌,534,sg10801,10801.0,雷凌,2022,normalized_name_match,True
+雷凌,534,sg10801,10801.0,雷凌,2023,normalized_name_match,True
+雷凌,534,sg10801,10801.0,雷凌,2024,normalized_name_match,True
+雷凌,534,sg10801,10801.0,雷凌,2025,normalized_name_match,True
+雷凌,534,sg10801,10801.0,雷凌,2026,normalized_name_match,True
+北京BJ80,sg10858,sg10858,,,2023,unmatched,False
+凌渡,397,sg10891,10891.0,凌渡,2022,normalized_name_match,True
+凌渡,397,sg10891,10891.0,凌渡,2023,normalized_name_match,True
+凌渡,397,sg10891,10891.0,凌渡,2024,normalized_name_match,True
+凌渡,397,sg10891,10891.0,凌渡,2025,normalized_name_match,True
+凌渡,397,sg10891,10891.0,凌渡,2026,normalized_name_match,True
+瑞风M3,768,sg10901,10901.0,瑞风M3,2022,normalized_name_match,True
+瑞风M3,768,sg10901,10901.0,瑞风M3,2023,normalized_name_match,True
+瑞风M3,768,sg10901,10901.0,瑞风M3,2024,normalized_name_match,True
+瑞风M3,768,sg10901,10901.0,瑞风M3,2025,normalized_name_match,True
+瑞风M3,768,sg10901,10901.0,瑞风M3,2026,normalized_name_match,True
+沃尔沃XC60,1282,sg11052,,,2026,unmatched,False
+昂科威,352,sg11081,11081.0,昂科威,2022,normalized_name_match,True
+昂科威,352,sg11081,11081.0,昂科威,2023,normalized_name_match,True
+昂科威,352,sg11081,11081.0,昂科威,2024,normalized_name_match,True
+昂科威,352,sg11081,11081.0,昂科威,2025,normalized_name_match,True
+昂科威,352,sg11081,11081.0,昂科威,2026,normalized_name_match,True
+宝马X3,2812,sg11244,11244.0,宝马X3,2022,normalized_name_match,True
+宝马X3,2812,sg11244,11244.0,宝马X3,2023,normalized_name_match,True
+宝马X3,2812,sg11244,11244.0,宝马X3,2024,normalized_name_match,True
+宝马X3,2812,sg11244,11244.0,宝马X3,2025,normalized_name_match,True
+宝马X3,2812,sg11244,11244.0,宝马X3,2026,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2022,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2023,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2024,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2025,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2026,normalized_name_match,True
+新帝豪,sg11262,sg11262,11262.0,新帝豪,2027,normalized_name_match,True
+揽胜极光,993,sg11374,,,2026,unmatched,False
+本田XR-V,279,sg11382,11382.0,本田XR-V,2022,normalized_name_match,True
+本田XR-V,279,sg11382,11382.0,本田XR-V,2023,normalized_name_match,True
+本田XR-V,279,sg11382,11382.0,本田XR-V,2024,normalized_name_match,True
+本田XR-V,279,sg11382,11382.0,本田XR-V,2025,normalized_name_match,True
+本田XR-V,279,sg11382,11382.0,本田XR-V,2026,normalized_name_match,True
+锐界L,sg11607,sg11607,11607.0,锐界L,2022,normalized_name_match,True
+锐界L,sg11607,sg11607,11607.0,锐界L,2023,normalized_name_match,True
+锐界L,sg11607,sg11607,11607.0,锐界L,2024,normalized_name_match,True
+锐界L,sg11607,sg11607,11607.0,锐界L,2025,normalized_name_match,True
+锐界L,sg11607,sg11607,11607.0,锐界L,2026,normalized_name_match,True
+英菲尼迪QX50,1423,sg11618,,,2026,unmatched,False
+撼路者,sg11717,sg11717,,,2020,unmatched,False
+起亚KX3傲跑,sg11787,sg11787,11787.0,起亚KX3傲跑,2021,normalized_name_match,True
+起亚KX3傲跑,sg11787,sg11787,11787.0,起亚KX3傲跑,2022,normalized_name_match,True
+起亚KX3傲跑,sg11787,sg11787,11787.0,起亚KX3傲跑,2023,normalized_name_match,True
+索纳塔,1318,sg11808,11808.0,索纳塔,2022,normalized_name_match,True
+索纳塔,1318,sg11808,11808.0,索纳塔,2023,normalized_name_match,True
+索纳塔,1318,sg11808,11808.0,索纳塔,2024,normalized_name_match,True
+索纳塔,1318,sg11808,11808.0,索纳塔,2025,normalized_name_match,True
+索纳塔,1318,sg11808,11808.0,索纳塔,2026,normalized_name_match,True
+传祺GS4,616,sg11980,,,2024,unmatched,False
+奔驰GLA,215,sg12181,,,2025,unmatched,False
+威朗,345,sg12381,12381.0,威朗,2022,normalized_name_match,True
+威朗,345,sg12381,12381.0,威朗,2023,normalized_name_match,True
+威朗,345,sg12381,12381.0,威朗,2024,normalized_name_match,True
+威朗,345,sg12381,12381.0,威朗,2025,normalized_name_match,True
+威朗,345,sg12381,12381.0,威朗,2026,normalized_name_match,True
+传祺GA8,sg12513,sg12513,12513.0,传祺GA8,2020,normalized_name_match,True
+传祺GA8,sg12513,sg12513,12513.0,传祺GA8,2022,normalized_name_match,True
+传祺GA8,sg12513,sg12513,12513.0,传祺GA8,2023,normalized_name_match,True
+途睿欧,573,sg12622,,,2023,unmatched,False
+途睿欧,573,sg12622,,,2024,unmatched,False
+博越,741,sg12714,,,2026,unmatched,False
+奔驰GLC,216,sg12975,12975.0,奔驰GLC,2022,normalized_name_match,True
+奔驰GLC,216,sg12975,12975.0,奔驰GLC,2023,normalized_name_match,True
+奔驰GLC,216,sg12975,12975.0,奔驰GLC,2024,normalized_name_match,True
+奔驰GLC,216,sg12975,12975.0,奔驰GLC,2025,normalized_name_match,True
+奔驰GLC,216,sg12975,12975.0,奔驰GLC,2026,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2019,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2022,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2023,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2024,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2025,normalized_name_match,True
+风光330,sg12985,sg12985,12985.0,风光330,2026,normalized_name_match,True
+凯迪拉克CT6,859,sg13088,,,2026,unmatched,False
+卡罗拉双擎E+,sg13350,sg13350,13350.0,卡罗拉双擎E+,2020,normalized_name_match,True
+卡罗拉双擎E+,sg13350,sg13350,13350.0,卡罗拉双擎E+,2022,normalized_name_match,True
+卡罗拉双擎E+,sg13350,sg13350,13350.0,卡罗拉双擎E+,2023,normalized_name_match,True
+奔驰V级,245,sg13360,13360.0,奔驰V级,2022,normalized_name_match,True
+奔驰V级,245,sg13360,13360.0,奔驰V级,2023,normalized_name_match,True
+奔驰V级,245,sg13360,13360.0,奔驰V级,2024,normalized_name_match,True
+奔驰V级,245,sg13360,13360.0,奔驰V级,2025,normalized_name_match,True
+奔驰V级,245,sg13360,13360.0,奔驰V级,2026,normalized_name_match,True
+森雅R7,sg13489,sg13489,,,2024,unmatched,False
+雪铁龙C6,sg13624,sg13624,,,2023,unmatched,False
+凯迪拉克XT5,861,sg13635,13635.0,凯迪拉克XT5,2022,normalized_name_match,True
+凯迪拉克XT5,861,sg13635,13635.0,凯迪拉克XT5,2023,normalized_name_match,True
+凯迪拉克XT5,861,sg13635,13635.0,凯迪拉克XT5,2024,normalized_name_match,True
+凯迪拉克XT5,861,sg13635,13635.0,凯迪拉克XT5,2025,normalized_name_match,True
+凯迪拉克XT5,861,sg13635,13635.0,凯迪拉克XT5,2026,normalized_name_match,True
+风光580,436,sg13817,,,2025,unmatched,False
+别克GL6,sg13838,sg13838,13838.0,别克GL6,2021,normalized_name_match,True
+别克GL6,sg13838,sg13838,13838.0,别克GL6,2022,normalized_name_match,True
+别克GL6,sg13838,sg13838,13838.0,别克GL6,2023,normalized_name_match,True
+迈锐宝XL,sg13877,sg13877,13877.0,迈锐宝XL,2022,normalized_name_match,True
+迈锐宝XL,sg13877,sg13877,13877.0,迈锐宝XL,2023,normalized_name_match,True
+迈锐宝XL,sg13877,sg13877,13877.0,迈锐宝XL,2024,normalized_name_match,True
+迈锐宝XL,sg13877,sg13877,13877.0,迈锐宝XL,2025,normalized_name_match,True
+迈锐宝XL,sg13877,sg13877,13877.0,迈锐宝XL,2026,normalized_name_match,True
+辉昂,sg13918,sg13918,,,2021,unmatched,False
+瑞虎7,1094,sg14068,14068.0,瑞虎7,2022,normalized_name_match,True
+瑞虎7,1094,sg14068,14068.0,瑞虎7,2023,normalized_name_match,True
+瑞虎7,1094,sg14068,14068.0,瑞虎7,2024,normalized_name_match,True
+瑞虎7,1094,sg14068,14068.0,瑞虎7,2025,normalized_name_match,True
+瑞虎7,1094,sg14068,14068.0,瑞虎7,2026,normalized_name_match,True
+捷豹XFL,798,sg14113,14113.0,捷豹XFL,2022,normalized_name_match,True
+捷豹XFL,798,sg14113,14113.0,捷豹XFL,2023,normalized_name_match,True
+捷豹XFL,798,sg14113,14113.0,捷豹XFL,2024,normalized_name_match,True
+捷豹XFL,798,sg14113,14113.0,捷豹XFL,2025,normalized_name_match,True
+捷豹XFL,798,sg14113,14113.0,捷豹XFL,2026,normalized_name_match,True
+荣威RX5,1182,sg14143,,,2023,unmatched,False
+荣威RX5,1182,sg14143,,,2025,unmatched,False
+传祺GS8,617,sg14231,,,2024,unmatched,False
+传祺GS8,617,sg14231,,,2025,unmatched,False
+冠道,292,sg14252,14252.0,冠道,2022,normalized_name_match,True
+冠道,292,sg14252,14252.0,冠道,2023,normalized_name_match,True
+冠道,292,sg14252,14252.0,冠道,2024,normalized_name_match,True
+冠道,292,sg14252,14252.0,冠道,2025,normalized_name_match,True
+冠道,292,sg14252,14252.0,冠道,2026,normalized_name_match,True
+瑞虎3x,1092,sg14373,14373.0,瑞虎3x,2022,normalized_name_match,True
+瑞虎3x,1092,sg14373,14373.0,瑞虎3x,2023,normalized_name_match,True
+瑞虎3x,1092,sg14373,14373.0,瑞虎3x,2024,normalized_name_match,True
+瑞虎3x,1092,sg14373,14373.0,瑞虎3x,2025,normalized_name_match,True
+瑞虎3x,1092,sg14373,14373.0,瑞虎3x,2026,normalized_name_match,True
+奔驰E级,214,sg1603,1603.0,奔驰E级,2022,normalized_name_match,True
+奔驰E级,214,sg1603,1603.0,奔驰E级,2023,normalized_name_match,True
+奔驰E级,214,sg1603,1603.0,奔驰E级,2024,normalized_name_match,True
+奔驰E级,214,sg1603,1603.0,奔驰E级,2025,normalized_name_match,True
+奔驰E级,214,sg1603,1603.0,奔驰E级,2026,normalized_name_match,True
+速腾,414,sg1633,1633.0,速腾,2022,normalized_name_match,True
+速腾,414,sg1633,1633.0,速腾,2023,normalized_name_match,True
+速腾,414,sg1633,1633.0,速腾,2024,normalized_name_match,True
+速腾,414,sg1633,1633.0,速腾,2025,normalized_name_match,True
+速腾,414,sg1633,1633.0,速腾,2026,normalized_name_match,True
+思域,276,sg1726,1726.0,思域,2022,normalized_name_match,True
+思域,276,sg1726,1726.0,思域,2023,normalized_name_match,True
+思域,276,sg1726,1726.0,思域,2024,normalized_name_match,True
+思域,276,sg1726,1726.0,思域,2025,normalized_name_match,True
+思域,276,sg1726,1726.0,思域,2026,normalized_name_match,True
+MG7,sg1983,sg1983,1983.0,MG7,2023,normalized_name_match,True
+MG7,sg1983,sg1983,1983.0,MG7,2024,normalized_name_match,True
+MG7,sg1983,sg1983,1983.0,MG7,2025,normalized_name_match,True
+MG7,sg1983,sg1983,1983.0,MG7,2026,normalized_name_match,True
+红旗HS7,2151,sg20462,,,2025,unmatched,False
+沃尔沃S90,1281,sg20543,20543.0,沃尔沃S90,2022,normalized_name_match,True
+沃尔沃S90,1281,sg20543,20543.0,沃尔沃S90,2023,normalized_name_match,True
+沃尔沃S90,1281,sg20543,20543.0,沃尔沃S90,2024,normalized_name_match,True
+沃尔沃S90,1281,sg20543,20543.0,沃尔沃S90,2025,normalized_name_match,True
+沃尔沃S90,1281,sg20543,20543.0,沃尔沃S90,2026,normalized_name_match,True
+标致4008,340,sg20545,20545.0,标致4008,2022,normalized_name_match,True
+标致4008,340,sg20545,20545.0,标致4008,2023,normalized_name_match,True
+标致4008,340,sg20545,20545.0,标致4008,2024,normalized_name_match,True
+标致4008,340,sg20545,20545.0,标致4008,2025,normalized_name_match,True
+标致4008,340,sg20545,20545.0,标致4008,2026,normalized_name_match,True
+宝骏510,sg20563,sg20563,,,2021,unmatched,False
+宝马1系,sg20583,sg20583,20583.0,宝马1系,2022,normalized_name_match,True
+宝马1系,sg20583,sg20583,20583.0,宝马1系,2023,normalized_name_match,True
+宝马1系,sg20583,sg20583,20583.0,宝马1系,2024,normalized_name_match,True
+宝马1系,sg20583,sg20583,20583.0,宝马1系,2025,normalized_name_match,True
+宝马1系,sg20583,sg20583,20583.0,宝马1系,2026,normalized_name_match,True
+领克01,1622,sg20922,,,2025,unmatched,False
+本田UR-V,281,sg20934,20934.0,本田UR-V,2022,normalized_name_match,True
+本田UR-V,281,sg20934,20934.0,本田UR-V,2023,normalized_name_match,True
+本田UR-V,281,sg20934,20934.0,本田UR-V,2024,normalized_name_match,True
+本田UR-V,281,sg20934,20934.0,本田UR-V,2025,normalized_name_match,True
+本田UR-V,281,sg20934,20934.0,本田UR-V,2026,normalized_name_match,True
+传祺GS3,1621,sg20942,,,2026,unmatched,False
+途昂,405,sg20963,20963.0,途昂,2022,normalized_name_match,True
+途昂,405,sg20963,20963.0,途昂,2023,normalized_name_match,True
+途昂,405,sg20963,20963.0,途昂,2024,normalized_name_match,True
+途昂,405,sg20963,20963.0,途昂,2025,normalized_name_match,True
+途昂,405,sg20963,20963.0,途昂,2026,normalized_name_match,True
+小蚂蚁,sg20982,sg20982,,,2024,unmatched,False
+小蚂蚁,sg20982,sg20982,,,2025,unmatched,False
+小蚂蚁,sg20982,sg20982,,,2026,unmatched,False
+探界者,1359,sg21013,21013.0,探界者,2022,normalized_name_match,True
+探界者,1359,sg21013,21013.0,探界者,2023,normalized_name_match,True
+探界者,1359,sg21013,21013.0,探界者,2024,normalized_name_match,True
+探界者,1359,sg21013,21013.0,探界者,2025,normalized_name_match,True
+探界者,1359,sg21013,21013.0,探界者,2026,normalized_name_match,True
+名爵ZS,sg21032,sg21032,,,2022,unmatched,False
+柯迪亚克,1245,sg21034,,,2025,unmatched,False
+荣威i6,25925,sg21054,,,2026,unmatched,False
+途观L,404,sg21172,21172.0,途观L,2022,normalized_name_match,True
+途观L,404,sg21172,21172.0,途观L,2023,normalized_name_match,True
+途观L,404,sg21172,21172.0,途观L,2024,normalized_name_match,True
+途观L,404,sg21172,21172.0,途观L,2025,normalized_name_match,True
+途观L,404,sg21172,21172.0,途观L,2026,normalized_name_match,True
+标致5008,341,sg21224,21224.0,标致5008,2022,normalized_name_match,True
+标致5008,341,sg21224,21224.0,标致5008,2023,normalized_name_match,True
+标致5008,341,sg21224,21224.0,标致5008,2024,normalized_name_match,True
+标致5008,341,sg21224,21224.0,标致5008,2025,normalized_name_match,True
+标致5008,341,sg21224,21224.0,标致5008,2026,normalized_name_match,True
+天逸 C5 AIRCROSS,1642,sg21412,,,2026,unmatched,False
+蒙迪欧,579,sg2143,2143.0,蒙迪欧,2022,normalized_name_match,True
+蒙迪欧,579,sg2143,2143.0,蒙迪欧,2023,normalized_name_match,True
+蒙迪欧,579,sg2143,2143.0,蒙迪欧,2024,normalized_name_match,True
+蒙迪欧,579,sg2143,2143.0,蒙迪欧,2025,normalized_name_match,True
+蒙迪欧,579,sg2143,2143.0,蒙迪欧,2026,normalized_name_match,True
+帝豪新能源,sg21432,sg21432,,,2022,unmatched,False
+沃尔沃S60新能源,sg21436,sg21436,,,2024,unmatched,False
+宝马X1新能源,sg21443,sg21443,,,2021,unmatched,False
+逸动新能源,sg21444,sg21444,,,2025,unmatched,False
+奥迪A6L e-tron,25413,sg21448,21448.0,奥迪A6L e-tron,2022,normalized_name_match,True
+奥迪A6L e-tron,25413,sg21448,21448.0,奥迪A6L e-tron,2023,normalized_name_match,True
+奥迪A6L e-tron,25413,sg21448,21448.0,奥迪A6L e-tron,2024,normalized_name_match,True
+奥迪A6L e-tron,25413,sg21448,21448.0,奥迪A6L e-tron,2025,normalized_name_match,True
+奥迪A6L e-tron,25413,sg21448,21448.0,奥迪A6L e-tron,2026,normalized_name_match,True
+劲客,1579,sg21482,,,2023,unmatched,False
+艾瑞泽5e,sg21512,sg21512,,,2019,unmatched,False
+领克03,1623,sg21568,21568.0,领克03,2022,normalized_name_match,True
+领克03,1623,sg21568,21568.0,领克03,2023,normalized_name_match,True
+领克03,1623,sg21568,21568.0,领克03,2024,normalized_name_match,True
+领克03,1623,sg21568,21568.0,领克03,2025,normalized_name_match,True
+领克03,1623,sg21568,21568.0,领克03,2026,normalized_name_match,True
+嘉际,sg21584,sg21584,,,2025,unmatched,False
+红旗H5经典,sg21585,sg21585,,,2022,unmatched,False
+东风风神E70,1655,sg21603,,,2023,unmatched,False
+焕驰,1719,sg21624,21624.0,焕驰,2020,normalized_name_match,True
+焕驰,1719,sg21624,21624.0,焕驰,2022,normalized_name_match,True
+焕驰,1719,sg21624,21624.0,焕驰,2023,normalized_name_match,True
+焕驰,1719,sg21624,21624.0,焕驰,2024,normalized_name_match,True
+焕驰,1719,sg21624,21624.0,焕驰,2025,normalized_name_match,True
+焕驰,1719,sg21624,21624.0,焕驰,2026,normalized_name_match,True
+蔚来ES8,1616,sg21639,,,2026,unmatched,False
+风行S50 EV,1810,sg21662,,,2023,unmatched,False
+风行S50 EV,1810,sg21662,,,2024,unmatched,False
+菱智M5新能源,sg21687,sg21687,,,2025,unmatched,False
+风光S560,1712,sg21775,,,2025,unmatched,False
+哈弗M6,sg21903,sg21903,,,2024,unmatched,False
+启辰D60,1628,sg21914,21914.0,启辰D60,2022,normalized_name_match,True
+启辰D60,1628,sg21914,21914.0,启辰D60,2023,normalized_name_match,True
+启辰D60,1628,sg21914,21914.0,启辰D60,2024,normalized_name_match,True
+启辰D60,1628,sg21914,21914.0,启辰D60,2025,normalized_name_match,True
+启辰D60,1628,sg21914,21914.0,启辰D60,2026,normalized_name_match,True
+荣威RX3,sg21973,sg21973,21973.0,荣威RX3,2021,normalized_name_match,True
+荣威RX3,sg21973,sg21973,21973.0,荣威RX3,2022,normalized_name_match,True
+荣威RX3,sg21973,sg21973,21973.0,荣威RX3,2023,normalized_name_match,True
+丰田C-HR,sg22014,sg22014,,,2023,unmatched,False
+捷豹XEL,sg22065,sg22065,22065.0,捷豹XEL,2022,normalized_name_match,True
+捷豹XEL,sg22065,sg22065,22065.0,捷豹XEL,2023,normalized_name_match,True
+捷豹XEL,sg22065,sg22065,22065.0,捷豹XEL,2024,normalized_name_match,True
+捷豹XEL,sg22065,sg22065,22065.0,捷豹XEL,2025,normalized_name_match,True
+捷豹XEL,sg22065,sg22065,22065.0,捷豹XEL,2026,normalized_name_match,True
+柯珞克,1661,sg22087,,,2025,unmatched,False
+瑞虎5x,1738,sg22103,22103.0,瑞虎5x,2022,normalized_name_match,True
+瑞虎5x,1738,sg22103,22103.0,瑞虎5x,2023,normalized_name_match,True
+瑞虎5x,1738,sg22103,22103.0,瑞虎5x,2024,normalized_name_match,True
+瑞虎5x,1738,sg22103,22103.0,瑞虎5x,2025,normalized_name_match,True
+瑞虎5x,1738,sg22103,22103.0,瑞虎5x,2026,normalized_name_match,True
+荣威Ei5,sg22193,sg22193,,,2021,unmatched,False
+小鹏G3,sg22263,sg22263,22263.0,小鹏G3,2022,normalized_name_match,True
+小鹏G3,sg22263,sg22263,22263.0,小鹏G3,2023,normalized_name_match,True
+小鹏G3,sg22263,sg22263,22263.0,小鹏G3,2024,normalized_name_match,True
+沃尔沃XC60新能源,sg22373,sg22373,,,2026,unmatched,False
+DS 7,sg22395,sg22395,,,2022,unmatched,False
+沃尔沃S90新能源,sg22513,sg22513,22513.0,沃尔沃S90新能源,2022,normalized_name_match,True
+沃尔沃S90新能源,sg22513,sg22513,22513.0,沃尔沃S90新能源,2023,normalized_name_match,True
+沃尔沃S90新能源,sg22513,sg22513,22513.0,沃尔沃S90新能源,2024,normalized_name_match,True
+沃尔沃S90新能源,sg22513,sg22513,22513.0,沃尔沃S90新能源,2025,normalized_name_match,True
+沃尔沃S90新能源,sg22513,sg22513,22513.0,沃尔沃S90新能源,2026,normalized_name_match,True
+奥迪Q2L,2963,sg22543,22543.0,奥迪Q2L,2022,normalized_name_match,True
+奥迪Q2L,2963,sg22543,22543.0,奥迪Q2L,2023,normalized_name_match,True
+奥迪Q2L,2963,sg22543,22543.0,奥迪Q2L,2024,normalized_name_match,True
+奥迪Q2L,2963,sg22543,22543.0,奥迪Q2L,2025,normalized_name_match,True
+奥迪Q2L,2963,sg22543,22543.0,奥迪Q2L,2026,normalized_name_match,True
+大通G50,2984,sg22554,22554.0,大通G50,2022,normalized_name_match,True
+大通G50,2984,sg22554,22554.0,大通G50,2023,normalized_name_match,True
+大通G50,2984,sg22554,22554.0,大通G50,2024,normalized_name_match,True
+大通G50,2984,sg22554,22554.0,大通G50,2025,normalized_name_match,True
+大通G50,2984,sg22554,22554.0,大通G50,2026,normalized_name_match,True
+捷途X70,1938,sg22643,,,2024,unmatched,False
+捷途X70,1938,sg22643,,,2025,unmatched,False
+捷途X70,1938,sg22643,,,2026,unmatched,False
+T-ROC探歌,sg22663,sg22663,22663.0,T-ROC探歌,2022,normalized_name_match,True
+T-ROC探歌,sg22663,sg22663,22663.0,T-ROC探歌,2023,normalized_name_match,True
+T-ROC探歌,sg22663,sg22663,22663.0,T-ROC探歌,2024,normalized_name_match,True
+T-ROC探歌,sg22663,sg22663,22663.0,T-ROC探歌,2025,normalized_name_match,True
+T-ROC探歌,sg22663,sg22663,22663.0,T-ROC探歌,2026,normalized_name_match,True
+途达,sg22673,sg22673,,,2020,unmatched,False
+瑞虎8,2794,sg22674,22674.0,瑞虎8,2022,normalized_name_match,True
+瑞虎8,2794,sg22674,22674.0,瑞虎8,2023,normalized_name_match,True
+瑞虎8,2794,sg22674,22674.0,瑞虎8,2024,normalized_name_match,True
+瑞虎8,2794,sg22674,22674.0,瑞虎8,2025,normalized_name_match,True
+瑞虎8,2794,sg22674,22674.0,瑞虎8,2026,normalized_name_match,True
+缤瑞,2928,sg22679,22679.0,缤瑞,2022,normalized_name_match,True
+缤瑞,2928,sg22679,22679.0,缤瑞,2023,normalized_name_match,True
+缤瑞,2928,sg22679,22679.0,缤瑞,2024,normalized_name_match,True
+缤瑞,2928,sg22679,22679.0,缤瑞,2025,normalized_name_match,True
+缤瑞,2928,sg22679,22679.0,缤瑞,2026,normalized_name_match,True
+传祺M6,2832,sg22683,22683.0,传祺M6,2022,normalized_name_match,True
+传祺M6,2832,sg22683,22683.0,传祺M6,2023,normalized_name_match,True
+传祺M6,2832,sg22683,22683.0,传祺M6,2024,normalized_name_match,True
+传祺M6,2832,sg22683,22683.0,传祺M6,2025,normalized_name_match,True
+传祺M6,2832,sg22683,22683.0,传祺M6,2026,normalized_name_match,True
+宋MAX新能源,sg22703,sg22703,,,2022,unmatched,False
+SWM斯威G01,sg22755,sg22755,,,2022,unmatched,False
+北京EU5,sg22795,sg22795,22795.0,北京EU5,2022,normalized_name_match,True
+北京EU5,sg22795,sg22795,22795.0,北京EU5,2023,normalized_name_match,True
+北京EU5,sg22795,sg22795,22795.0,北京EU5,2024,normalized_name_match,True
+北京EU5,sg22795,sg22795,22795.0,北京EU5,2025,normalized_name_match,True
+北京EU5,sg22795,sg22795,22795.0,北京EU5,2026,normalized_name_match,True
+柯米克,2826,sg22803,,,2025,unmatched,False
+探岳,2835,sg22813,22813.0,探岳,2022,normalized_name_match,True
+探岳,2835,sg22813,22813.0,探岳,2023,normalized_name_match,True
+探岳,2835,sg22813,22813.0,探岳,2024,normalized_name_match,True
+探岳,2835,sg22813,22813.0,探岳,2025,normalized_name_match,True
+探岳,2835,sg22813,22813.0,探岳,2026,normalized_name_match,True
+途观L新能源,sg22814,sg22814,22814.0,途观L新能源,2022,normalized_name_match,True
+途观L新能源,sg22814,sg22814,22814.0,途观L新能源,2023,normalized_name_match,True
+途观L新能源,sg22814,sg22814,22814.0,途观L新能源,2024,normalized_name_match,True
+途观L新能源,sg22814,sg22814,22814.0,途观L新能源,2025,normalized_name_match,True
+途观L新能源,sg22814,sg22814,22814.0,途观L新能源,2026,normalized_name_match,True
+途岳,2836,sg22815,22815.0,途岳,2022,normalized_name_match,True
+途岳,2836,sg22815,22815.0,途岳,2023,normalized_name_match,True
+途岳,2836,sg22815,22815.0,途岳,2024,normalized_name_match,True
+途岳,2836,sg22815,22815.0,途岳,2025,normalized_name_match,True
+途岳,2836,sg22815,22815.0,途岳,2026,normalized_name_match,True
+微蓝6,3359,sg22833,22833.0,微蓝6,2022,normalized_name_match,True
+微蓝6,3359,sg22833,22833.0,微蓝6,2023,normalized_name_match,True
+微蓝6,3359,sg22833,22833.0,微蓝6,2024,normalized_name_match,True
+微蓝6,3359,sg22833,22833.0,微蓝6,2025,normalized_name_match,True
+微蓝6,3359,sg22833,22833.0,微蓝6,2026,normalized_name_match,True
+长安欧尚A600,sg22843,sg22843,,,2020,unmatched,False
+风光ix5,2813,sg22857,,,2021,unmatched,False
+风光ix5,2813,sg22857,,,2022,unmatched,False
+捷豹E-PACE,2816,sg22883,,,2024,unmatched,False
+缤越,2975,sg22894,22894.0,缤越,2022,normalized_name_match,True
+缤越,2975,sg22894,22894.0,缤越,2023,normalized_name_match,True
+缤越,2975,sg22894,22894.0,缤越,2024,normalized_name_match,True
+缤越,2975,sg22894,22894.0,缤越,2025,normalized_name_match,True
+缤越,2975,sg22894,22894.0,缤越,2026,normalized_name_match,True
+风行T5,2820,sg22897,,,2023,unmatched,False
+风行T5,2820,sg22897,,,2024,unmatched,False
+海马8S,sg22904,sg22904,22904.0,海马8S,2022,normalized_name_match,True
+海马8S,sg22904,sg22904,22904.0,海马8S,2023,normalized_name_match,True
+海马8S,sg22904,sg22904,22904.0,海马8S,2024,normalized_name_match,True
+海马8S,sg22904,sg22904,22904.0,海马8S,2025,normalized_name_match,True
+海马8S,sg22904,sg22904,22904.0,海马8S,2026,normalized_name_match,True
+捷途X90,sg22941,sg22941,,,2019,unmatched,False
+捷途X90,sg22941,sg22941,,,2020,unmatched,False
+捷途X90,sg22941,sg22941,,,2021,unmatched,False
+捷途X90,sg22941,sg22941,,,2022,unmatched,False
+捷途X90,sg22941,sg22941,,,2023,unmatched,False
+捷途X90,sg22941,sg22941,,,2026,unmatched,False
+奕跑,2890,sg22943,22943.0,奕跑,2022,normalized_name_match,True
+奕跑,2890,sg22943,22943.0,奕跑,2023,normalized_name_match,True
+奕跑,2890,sg22943,22943.0,奕跑,2024,normalized_name_match,True
+奕跑,2890,sg22943,22943.0,奕跑,2025,normalized_name_match,True
+奕跑,2890,sg22943,22943.0,奕跑,2026,normalized_name_match,True
+奔驰A级,2913,sg22951,22951.0,奔驰A级,2022,normalized_name_match,True
+奔驰A级,2913,sg22951,22951.0,奔驰A级,2023,normalized_name_match,True
+奔驰A级,2913,sg22951,22951.0,奔驰A级,2024,normalized_name_match,True
+奔驰A级,2913,sg22951,22951.0,奔驰A级,2025,normalized_name_match,True
+奔驰A级,2913,sg22951,22951.0,奔驰A级,2026,normalized_name_match,True
+吉利ICON,2880,sg22969,22969.0,吉利ICON,2022,normalized_name_match,True
+吉利ICON,2880,sg22969,22969.0,吉利ICON,2023,normalized_name_match,True
+吉利ICON,2880,sg22969,22969.0,吉利ICON,2024,normalized_name_match,True
+吉利ICON,2880,sg22969,22969.0,吉利ICON,2025,normalized_name_match,True
+吉利ICON,2880,sg22969,22969.0,吉利ICON,2026,normalized_name_match,True
+LA FESTA菲斯塔,sg22970,sg22970,,,2023,unmatched,False
+英仕派,2875,sg22980,22980.0,英仕派,2022,normalized_name_match,True
+英仕派,2875,sg22980,22980.0,英仕派,2023,normalized_name_match,True
+英仕派,2875,sg22980,22980.0,英仕派,2024,normalized_name_match,True
+英仕派,2875,sg22980,22980.0,英仕派,2025,normalized_name_match,True
+英仕派,2875,sg22980,22980.0,英仕派,2026,normalized_name_match,True
+星途追风,3083,sg22988,,,2024,unmatched,False
+星途追风,3083,sg22988,,,2025,unmatched,False
+奥迪Q5L,2916,sg23054,23054.0,奥迪Q5L,2022,normalized_name_match,True
+奥迪Q5L,2916,sg23054,23054.0,奥迪Q5L,2023,normalized_name_match,True
+奥迪Q5L,2916,sg23054,23054.0,奥迪Q5L,2024,normalized_name_match,True
+奥迪Q5L,2916,sg23054,23054.0,奥迪Q5L,2025,normalized_name_match,True
+奥迪Q5L,2916,sg23054,23054.0,奥迪Q5L,2026,normalized_name_match,True
+凯迪拉克XT4,2971,sg23063,,,2024,unmatched,False
+凯迪拉克XT4,2971,sg23063,,,2026,unmatched,False
+沃兰多,sg23253,sg23253,23253.0,沃兰多,2020,normalized_name_match,True
+沃兰多,sg23253,sg23253,23253.0,沃兰多,2022,normalized_name_match,True
+沃兰多,sg23253,sg23253,23253.0,沃兰多,2023,normalized_name_match,True
+长安CS85 COUPE,sg23273,sg23273,,,2023,unmatched,False
+启辰T60,sg23313,sg23313,23313.0,启辰T60,2022,normalized_name_match,True
+启辰T60,sg23313,sg23313,23313.0,启辰T60,2023,normalized_name_match,True
+启辰T60,sg23313,sg23313,23313.0,启辰T60,2024,normalized_name_match,True
+蔚来ES6,2843,sg23323,,,2025,unmatched,False
+蔚来ES6,2843,sg23323,,,2026,unmatched,False
+领界,sg23384,sg23384,,,2021,unmatched,False
+荣威i5,3041,sg23393,23393.0,荣威i5,2022,normalized_name_match,True
+荣威i5,3041,sg23393,23393.0,荣威i5,2023,normalized_name_match,True
+荣威i5,3041,sg23393,23393.0,荣威i5,2024,normalized_name_match,True
+荣威i5,3041,sg23393,23393.0,荣威i5,2025,normalized_name_match,True
+荣威i5,3041,sg23393,23393.0,荣威i5,2026,normalized_name_match,True
+帕萨特新能源,sg23463,sg23463,23463.0,帕萨特新能源,2022,normalized_name_match,True
+帕萨特新能源,sg23463,sg23463,23463.0,帕萨特新能源,2023,normalized_name_match,True
+帕萨特新能源,sg23463,sg23463,23463.0,帕萨特新能源,2024,normalized_name_match,True
+帕萨特新能源,sg23463,sg23463,23463.0,帕萨特新能源,2025,normalized_name_match,True
+帕萨特新能源,sg23463,sg23463,23463.0,帕萨特新能源,2026,normalized_name_match,True
+亚洲龙,3068,sg23627,23627.0,亚洲龙,2022,normalized_name_match,True
+亚洲龙,3068,sg23627,23627.0,亚洲龙,2023,normalized_name_match,True
+亚洲龙,3068,sg23627,23627.0,亚洲龙,2024,normalized_name_match,True
+亚洲龙,3068,sg23627,23627.0,亚洲龙,2025,normalized_name_match,True
+亚洲龙,3068,sg23627,23627.0,亚洲龙,2026,normalized_name_match,True
+易至EV3,3028,sg23634,,,2025,unmatched,False
+易至EV3,3028,sg23634,,,2026,unmatched,False
+吉利几何A,3157,sg23643,,,2024,unmatched,False
+长安CS35 PLUS,3052,sg23663,,,2023,unmatched,False
+途铠,sg23723,sg23723,,,2023,unmatched,False
+AION S,3101,sg23867,23867.0,AION S,2022,normalized_name_match,True
+AION S,3101,sg23867,23867.0,AION S,2023,normalized_name_match,True
+AION S,3101,sg23867,23867.0,AION S,2024,normalized_name_match,True
+AION S,3101,sg23867,23867.0,AION S,2025,normalized_name_match,True
+AION S,3101,sg23867,23867.0,AION S,2026,normalized_name_match,True
+享域,sg23869,sg23869,23869.0,享域,2022,normalized_name_match,True
+享域,sg23869,sg23869,23869.0,享域,2023,normalized_name_match,True
+享域,sg23869,sg23869,23869.0,享域,2024,normalized_name_match,True
+广汽本田VE-1,sg23870,sg23870,,,2023,unmatched,False
+迈腾PHEV,3142,sg23973,23973.0,迈腾PHEV,2022,normalized_name_match,True
+迈腾PHEV,3142,sg23973,23973.0,迈腾PHEV,2023,normalized_name_match,True
+迈腾PHEV,3142,sg23973,23973.0,迈腾PHEV,2024,normalized_name_match,True
+迈腾PHEV,3142,sg23973,23973.0,迈腾PHEV,2025,normalized_name_match,True
+迈腾PHEV,3142,sg23973,23973.0,迈腾PHEV,2026,normalized_name_match,True
+探岳PHEV,sg23974,sg23974,,,2026,unmatched,False
+风光ix7,sg24043,sg24043,,,2021,unmatched,False
+开拓者,4196,sg24103,,,2023,unmatched,False
+凯迪拉克XT6,3164,sg24164,24164.0,凯迪拉克XT6,2022,normalized_name_match,True
+凯迪拉克XT6,3164,sg24164,24164.0,凯迪拉克XT6,2023,normalized_name_match,True
+凯迪拉克XT6,3164,sg24164,24164.0,凯迪拉克XT6,2024,normalized_name_match,True
+凯迪拉克XT6,3164,sg24164,24164.0,凯迪拉克XT6,2025,normalized_name_match,True
+凯迪拉克XT6,3164,sg24164,24164.0,凯迪拉克XT6,2026,normalized_name_match,True
+Polestar 2,3166,sg24173,,,2024,unmatched,False
+红旗HS5,3159,sg24184,24184.0,红旗HS5,2022,normalized_name_match,True
+红旗HS5,3159,sg24184,24184.0,红旗HS5,2023,normalized_name_match,True
+红旗HS5,3159,sg24184,24184.0,红旗HS5,2024,normalized_name_match,True
+红旗HS5,3159,sg24184,24184.0,红旗HS5,2025,normalized_name_match,True
+红旗HS5,3159,sg24184,24184.0,红旗HS5,2026,normalized_name_match,True
+捷途X70S EV,sg24263,sg24263,,,2019,unmatched,False
+捷达VA3,3172,sg24304,24304.0,捷达VA3,2022,normalized_name_match,True
+捷达VA3,3172,sg24304,24304.0,捷达VA3,2023,normalized_name_match,True
+捷达VA3,3172,sg24304,24304.0,捷达VA3,2024,normalized_name_match,True
+捷达VA3,3172,sg24304,24304.0,捷达VA3,2025,normalized_name_match,True
+捷达VA3,3172,sg24304,24304.0,捷达VA3,2026,normalized_name_match,True
+捷达VS5,3171,sg24305,,,2024,unmatched,False
+捷达VS5,3171,sg24305,,,2025,unmatched,False
+捷达VS5,3171,sg24305,,,2026,unmatched,False
+捷达VS7,3276,sg24306,,,2026,unmatched,False
+奥迪Q2L e-tron,sg24354,sg24354,,,2022,unmatched,False
+长安CS75 PLUS,3196,sg24393,24393.0,长安CS75 PLUS,2022,normalized_name_match,True
+长安CS75 PLUS,3196,sg24393,24393.0,长安CS75 PLUS,2023,normalized_name_match,True
+长安CS75 PLUS,3196,sg24393,24393.0,长安CS75 PLUS,2024,normalized_name_match,True
+长安CS75 PLUS,3196,sg24393,24393.0,长安CS75 PLUS,2025,normalized_name_match,True
+长安CS75 PLUS,3196,sg24393,24393.0,长安CS75 PLUS,2026,normalized_name_match,True
+启辰D60 EV,3351,sg24403,,,2022,unmatched,False
+奕炫,3365,sg24417,24417.0,奕炫,2022,normalized_name_match,True
+奕炫,3365,sg24417,24417.0,奕炫,2023,normalized_name_match,True
+奕炫,3365,sg24417,24417.0,奕炫,2024,normalized_name_match,True
+奕炫,3365,sg24417,24417.0,奕炫,2025,normalized_name_match,True
+奕炫,3365,sg24417,24417.0,奕炫,2026,normalized_name_match,True
+沃尔沃XC40,3355,sg24444,,,2026,unmatched,False
+领克05,3463,sg24463,,,2023,unmatched,False
+零跑C11,4731,sg24496,,,2026,unmatched,False
+零跑C11,4731,sg24496,,,2027,unmatched,False
+锐际,3334,sg24504,24504.0,锐际,2022,normalized_name_match,True
+锐际,3334,sg24504,24504.0,锐际,2023,normalized_name_match,True
+锐际,3334,sg24504,24504.0,锐际,2024,normalized_name_match,True
+锐际,3334,sg24504,24504.0,锐际,2025,normalized_name_match,True
+锐际,3334,sg24504,24504.0,锐际,2026,normalized_name_match,True
+小鹏P7,sg24513,sg24513,24513.0,小鹏P7,2022,normalized_name_match,True
+小鹏P7,sg24513,sg24513,24513.0,小鹏P7,2023,normalized_name_match,True
+小鹏P7,sg24513,sg24513,24513.0,小鹏P7,2024,normalized_name_match,True
+小鹏P7,sg24513,sg24513,24513.0,小鹏P7,2025,normalized_name_match,True
+小鹏P7,sg24513,sg24513,24513.0,小鹏P7,2026,normalized_name_match,True
+明锐,1241,sg2453,,,2025,unmatched,False
+AION LX,3503,sg24567,,,2022,unmatched,False
+启辰T60 EV,3453,sg24574,,,2023,unmatched,False
+宝骏RC-5,sg24583,sg24583,,,2020,unmatched,False
+揽境,3437,sg24603,24603.0,揽境,2022,normalized_name_match,True
+揽境,3437,sg24603,24603.0,揽境,2023,normalized_name_match,True
+揽境,3437,sg24603,24603.0,揽境,2024,normalized_name_match,True
+揽境,3437,sg24603,24603.0,揽境,2025,normalized_name_match,True
+揽境,3437,sg24603,24603.0,揽境,2026,normalized_name_match,True
+探岳X,4425,sg24604,24604.0,探岳X,2022,normalized_name_match,True
+探岳X,4425,sg24604,24604.0,探岳X,2023,normalized_name_match,True
+探岳X,4425,sg24604,24604.0,探岳X,2024,normalized_name_match,True
+探岳X,4425,sg24604,24604.0,探岳X,2025,normalized_name_match,True
+探岳X,4425,sg24604,24604.0,探岳X,2026,normalized_name_match,True
+蔚来ET7,3478,sg24611,24611.0,蔚来ET7,2022,normalized_name_match,True
+蔚来ET7,3478,sg24611,24611.0,蔚来ET7,2023,normalized_name_match,True
+蔚来ET7,3478,sg24611,24611.0,蔚来ET7,2024,normalized_name_match,True
+蔚来ET7,3478,sg24611,24611.0,蔚来ET7,2025,normalized_name_match,True
+蔚来ET7,3478,sg24611,24611.0,蔚来ET7,2026,normalized_name_match,True
+风光E3,sg24618,sg24618,,,2020,unmatched,False
+比亚迪e2,3455,sg24626,,,2023,unmatched,False
+比亚迪e2,3455,sg24626,,,2024,unmatched,False
+伊兰特,1310,sg2463,2463.0,伊兰特,2022,normalized_name_match,True
+伊兰特,1310,sg2463,2463.0,伊兰特,2023,normalized_name_match,True
+伊兰特,1310,sg2463,2463.0,伊兰特,2024,normalized_name_match,True
+伊兰特,1310,sg2463,2463.0,伊兰特,2025,normalized_name_match,True
+伊兰特,1310,sg2463,2463.0,伊兰特,2026,normalized_name_match,True
+奕泽IZOA E进擎,sg24630,sg24630,,,2020,unmatched,False
+奔驰A级AMG,3360,sg24633,,,2025,unmatched,False
+星瑞,3476,sg24636,24636.0,星瑞,2022,normalized_name_match,True
+星瑞,3476,sg24636,24636.0,星瑞,2023,normalized_name_match,True
+星瑞,3476,sg24636,24636.0,星瑞,2024,normalized_name_match,True
+星瑞,3476,sg24636,24636.0,星瑞,2025,normalized_name_match,True
+星瑞,3476,sg24636,24636.0,星瑞,2026,normalized_name_match,True
+宋Pro新能源,sg24638,sg24638,24638.0,宋Pro新能源,2022,normalized_name_match,True
+宋Pro新能源,sg24638,sg24638,24638.0,宋Pro新能源,2023,normalized_name_match,True
+宋Pro新能源,sg24638,sg24638,24638.0,宋Pro新能源,2024,normalized_name_match,True
+宋Pro新能源,sg24638,sg24638,24638.0,宋Pro新能源,2025,normalized_name_match,True
+宋Pro新能源,sg24638,sg24638,24638.0,宋Pro新能源,2026,normalized_name_match,True
+星途揽月,3720,sg24773,,,2026,unmatched,False
+SWM斯威G05,sg24774,sg24774,,,2023,unmatched,False
+宝马X2,sg24785,sg24785,24785.0,宝马X2,2022,normalized_name_match,True
+宝马X2,sg24785,sg24785,24785.0,宝马X2,2023,normalized_name_match,True
+宝马X2,sg24785,sg24785,24785.0,宝马X2,2024,normalized_name_match,True
+宝马X2,sg24785,sg24785,24785.0,宝马X2,2025,normalized_name_match,True
+宝马X2,sg24785,sg24785,24785.0,宝马X2,2026,normalized_name_match,True
+Model 3,3762,sg24824,24824.0,Model 3,2022,normalized_name_match,True
+Model 3,3762,sg24824,24824.0,Model 3,2023,normalized_name_match,True
+Model 3,3762,sg24824,24824.0,Model 3,2024,normalized_name_match,True
+Model 3,3762,sg24824,24824.0,Model 3,2025,normalized_name_match,True
+凯迪拉克CT5,3736,sg24885,24885.0,凯迪拉克CT5,2022,normalized_name_match,True
+凯迪拉克CT5,3736,sg24885,24885.0,凯迪拉克CT5,2023,normalized_name_match,True
+凯迪拉克CT5,3736,sg24885,24885.0,凯迪拉克CT5,2024,normalized_name_match,True
+凯迪拉克CT5,3736,sg24885,24885.0,凯迪拉克CT5,2025,normalized_name_match,True
+凯迪拉克CT5,3736,sg24885,24885.0,凯迪拉克CT5,2026,normalized_name_match,True
+奔驰GLB,3928,sg24905,24905.0,奔驰GLB,2022,normalized_name_match,True
+奔驰GLB,3928,sg24905,24905.0,奔驰GLB,2023,normalized_name_match,True
+奔驰GLB,3928,sg24905,24905.0,奔驰GLB,2024,normalized_name_match,True
+奔驰GLB,3928,sg24905,24905.0,奔驰GLB,2025,normalized_name_match,True
+奔驰GLB,3928,sg24905,24905.0,奔驰GLB,2026,normalized_name_match,True
+风景G5,3742,sg24935,,,2024,unmatched,False
+风景G5,3742,sg24935,,,2026,unmatched,False
+奔腾T99,sg25019,sg25019,,,2023,unmatched,False
+宝骏RS-3,sg25039,sg25039,,,2022,unmatched,False
+冒险家,3981,sg25099,,,2025,unmatched,False
+冒险家,3981,sg25099,,,2026,unmatched,False
+比亚迪e3,4076,sg25111,,,2021,unmatched,False
+探影,sg25149,sg25149,,,2023,unmatched,False
+畅巡,sg25151,sg25151,,,2024,unmatched,False
+皓影,4079,sg25152,25152.0,皓影,2022,normalized_name_match,True
+皓影,4079,sg25152,25152.0,皓影,2023,normalized_name_match,True
+皓影,4079,sg25152,25152.0,皓影,2024,normalized_name_match,True
+皓影,4079,sg25152,25152.0,皓影,2025,normalized_name_match,True
+皓影,4079,sg25152,25152.0,皓影,2026,normalized_name_match,True
+DS 9新能源,sg25390,sg25390,,,2021,unmatched,False
+威然,4160,sg25419,25419.0,威然,2022,normalized_name_match,True
+威然,4160,sg25419,25419.0,威然,2023,normalized_name_match,True
+威然,4160,sg25419,25419.0,威然,2024,normalized_name_match,True
+威然,4160,sg25419,25419.0,威然,2025,normalized_name_match,True
+威然,4160,sg25419,25419.0,威然,2026,normalized_name_match,True
+威兰达,4172,sg25490,25490.0,威兰达,2022,normalized_name_match,True
+威兰达,4172,sg25490,25490.0,威兰达,2023,normalized_name_match,True
+威兰达,4172,sg25490,25490.0,威兰达,2024,normalized_name_match,True
+威兰达,4172,sg25490,25490.0,威兰达,2025,normalized_name_match,True
+威兰达,4172,sg25490,25490.0,威兰达,2026,normalized_name_match,True
+凯迪拉克CT4,4182,sg25551,,,2023,unmatched,False
+大众ID.3,5217,sg25599,25599.0,大众ID.3,2022,normalized_name_match,True
+大众ID.3,5217,sg25599,25599.0,大众ID.3,2023,normalized_name_match,True
+大众ID.3,5217,sg25599,25599.0,大众ID.3,2024,normalized_name_match,True
+大众ID.3,5217,sg25599,25599.0,大众ID.3,2025,normalized_name_match,True
+大众ID.3,5217,sg25599,25599.0,大众ID.3,2026,normalized_name_match,True
+ID.4 CROZZ,4586,sg25600,25600.0,ID.4 CROZZ,2022,normalized_name_match,True
+ID.4 CROZZ,4586,sg25600,25600.0,ID.4 CROZZ,2023,normalized_name_match,True
+ID.4 CROZZ,4586,sg25600,25600.0,ID.4 CROZZ,2024,normalized_name_match,True
+ID.4 CROZZ,4586,sg25600,25600.0,ID.4 CROZZ,2025,normalized_name_match,True
+ID.4 CROZZ,4586,sg25600,25600.0,ID.4 CROZZ,2026,normalized_name_match,True
+长安CS55 PLUS,4223,sg25604,25604.0,长安CS55PLUS,2022,normalized_name_match,True
+长安CS55 PLUS,4223,sg25604,25604.0,长安CS55PLUS,2023,normalized_name_match,True
+长安CS55 PLUS,4223,sg25604,25604.0,长安CS55PLUS,2024,normalized_name_match,True
+长安CS55 PLUS,4223,sg25604,25604.0,长安CS55PLUS,2025,normalized_name_match,True
+长安CS55 PLUS,4223,sg25604,25604.0,长安CS55PLUS,2026,normalized_name_match,True
+汉,sg25611,sg25611,25611.0,汉,2022,normalized_name_match,True
+汉,sg25611,sg25611,25611.0,汉,2023,normalized_name_match,True
+汉,sg25611,sg25611,25611.0,汉,2024,normalized_name_match,True
+汉,sg25611,sg25611,25611.0,汉,2025,normalized_name_match,True
+汉,sg25611,sg25611,25611.0,汉,2026,normalized_name_match,True
+红旗E-HS9,4146,sg25651,25651.0,红旗E-HS9,2023,normalized_name_match,True
+红旗E-HS9,4146,sg25651,25651.0,红旗E-HS9,2024,normalized_name_match,True
+红旗E-HS9,4146,sg25651,25651.0,红旗E-HS9,2025,normalized_name_match,True
+零跑T03,4272,sg25653,25653.0,零跑T03,2022,normalized_name_match,True
+零跑T03,4272,sg25653,25653.0,零跑T03,2023,normalized_name_match,True
+零跑T03,4272,sg25653,25653.0,零跑T03,2024,normalized_name_match,True
+零跑T03,4272,sg25653,25653.0,零跑T03,2025,normalized_name_match,True
+零跑T03,4272,sg25653,25653.0,零跑T03,2026,normalized_name_match,True
+启辰星,4276,sg25681,,,2026,unmatched,False
+海马7X,4201,sg25699,,,2023,unmatched,False
+炫界,4311,sg25771,,,2024,unmatched,False
+炫界,4311,sg25771,,,2025,unmatched,False
+奥迪A7L,4302,sg25801,25801.0,奥迪A7L,2022,normalized_name_match,True
+奥迪A7L,4302,sg25801,25801.0,奥迪A7L,2023,normalized_name_match,True
+奥迪A7L,4302,sg25801,25801.0,奥迪A7L,2024,normalized_name_match,True
+奥迪A7L,4302,sg25801,25801.0,奥迪A7L,2025,normalized_name_match,True
+奥迪A7L,4302,sg25801,25801.0,奥迪A7L,2026,normalized_name_match,True
+红旗H9,4355,sg25866,25866.0,红旗H9,2022,normalized_name_match,True
+红旗H9,4355,sg25866,25866.0,红旗H9,2023,normalized_name_match,True
+红旗H9,4355,sg25866,25866.0,红旗H9,2024,normalized_name_match,True
+红旗H9,4355,sg25866,25866.0,红旗H9,2025,normalized_name_match,True
+红旗H9,4355,sg25866,25866.0,红旗H9,2026,normalized_name_match,True
+合创007,sg25872,sg25872,,,2021,unmatched,False
+蔚来EC6,4357,sg25881,,,2025,unmatched,False
+蔚来EC6,4357,sg25881,,,2026,unmatched,False
+发现运动版,sg25891,sg25891,,,2025,unmatched,False
+探险者,4284,sg25901,25901.0,探险者,2022,normalized_name_match,True
+探险者,4284,sg25901,25901.0,探险者,2023,normalized_name_match,True
+探险者,4284,sg25901,25901.0,探险者,2024,normalized_name_match,True
+探险者,4284,sg25901,25901.0,探险者,2025,normalized_name_match,True
+探险者,4284,sg25901,25901.0,探险者,2026,normalized_name_match,True
+大蚂蚁,sg25902,sg25902,,,2022,unmatched,False
+长安UNI-T,4353,sg25903,25903.0,长安UNI-T,2022,normalized_name_match,True
+长安UNI-T,4353,sg25903,25903.0,长安UNI-T,2023,normalized_name_match,True
+长安UNI-T,4353,sg25903,25903.0,长安UNI-T,2024,normalized_name_match,True
+长安UNI-T,4353,sg25903,25903.0,长安UNI-T,2025,normalized_name_match,True
+长安UNI-T,4353,sg25903,25903.0,长安UNI-T,2026,normalized_name_match,True
+微蓝7,sg25971,sg25971,,,2022,unmatched,False
+极狐 阿尔法T(ARCFOX αT),sg25982,sg25982,,,2023,unmatched,False
+极狐 阿尔法T(ARCFOX αT),sg25982,sg25982,,,2024,unmatched,False
+领克06,4342,sg25991,,,2026,unmatched,False
+领克06新能源,sg25992,sg25992,,,2025,unmatched,False
+AION V,4426,sg26013,,,2026,unmatched,False
+北京X7,4422,sg26021,,,2023,unmatched,False
+北京X7,4422,sg26021,,,2024,unmatched,False
+北京X7,4422,sg26021,,,2025,unmatched,False
+科莱威CLEVER,sg26043,sg26043,,,2022,unmatched,False
+奔奔E-Star,sg26061,sg26061,26061.0,奔奔E-Star,2022,normalized_name_match,True
+奔奔E-Star,sg26061,sg26061,26061.0,奔奔E-Star,2023,normalized_name_match,True
+奔奔E-Star,sg26061,sg26061,26061.0,奔奔E-Star,2024,normalized_name_match,True
+奔奔E-Star,sg26061,sg26061,26061.0,奔奔E-Star,2025,normalized_name_match,True
+逸动,1455,sg26101,26101.0,逸动,2022,normalized_name_match,True
+逸动,1455,sg26101,26101.0,逸动,2023,normalized_name_match,True
+逸动,1455,sg26101,26101.0,逸动,2024,normalized_name_match,True
+逸动,1455,sg26101,26101.0,逸动,2025,normalized_name_match,True
+逸动,1455,sg26101,26101.0,逸动,2026,normalized_name_match,True
+宏光MINIEV,sg26211,sg26211,26211.0,宏光MINIEV,2022,normalized_name_match,True
+宏光MINIEV,sg26211,sg26211,26211.0,宏光MINIEV,2023,normalized_name_match,True
+宏光MINIEV,sg26211,sg26211,26211.0,宏光MINIEV,2024,normalized_name_match,True
+宏光MINIEV,sg26211,sg26211,26211.0,宏光MINIEV,2025,normalized_name_match,True
+宏光MINIEV,sg26211,sg26211,26211.0,宏光MINIEV,2026,normalized_name_match,True
+上汽大通MAXUS D90 Pro,sg26242,sg26242,,,2023,unmatched,False
+凌宝BOX,4503,sg26263,26263.0,凌宝BOX,2022,normalized_name_match,True
+凌宝BOX,4503,sg26263,26263.0,凌宝BOX,2023,normalized_name_match,True
+凌宝BOX,4503,sg26263,26263.0,凌宝BOX,2024,normalized_name_match,True
+凌宝BOX,4503,sg26263,26263.0,凌宝BOX,2025,normalized_name_match,True
+凌宝BOX,4503,sg26263,26263.0,凌宝BOX,2026,normalized_name_match,True
+马自达CX-30,4381,sg26311,,,2024,unmatched,False
+航海家,4537,sg26401,,,2026,unmatched,False
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2021,normalized_name_match,True
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2022,normalized_name_match,True
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2023,normalized_name_match,True
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2024,normalized_name_match,True
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2025,normalized_name_match,True
+宝马iX3,sg26403,sg26403,26403.0,宝马iX3,2026,normalized_name_match,True
+奥迪e-tron,sg26404,sg26404,,,2021,unmatched,False
+宋PLUS新能源,sg26406,sg26406,26406.0,宋PLUS新能源,2022,normalized_name_match,True
+宋PLUS新能源,sg26406,sg26406,26406.0,宋PLUS新能源,2023,normalized_name_match,True
+宋PLUS新能源,sg26406,sg26406,26406.0,宋PLUS新能源,2024,normalized_name_match,True
+宋PLUS新能源,sg26406,sg26406,26406.0,宋PLUS新能源,2025,normalized_name_match,True
+宋PLUS新能源,sg26406,sg26406,26406.0,宋PLUS新能源,2026,normalized_name_match,True
+五菱凯捷,sg26411,sg26411,,,2022,unmatched,False
+五菱凯捷,sg26411,sg26411,,,2023,unmatched,False
+哈弗大狗,4563,sg26431,,,2024,unmatched,False
+哈弗大狗,4563,sg26431,,,2026,unmatched,False
+荣威iMAX8,4535,sg26445,26445.0,荣威iMAX8,2022,normalized_name_match,True
+荣威iMAX8,4535,sg26445,26445.0,荣威iMAX8,2023,normalized_name_match,True
+荣威iMAX8,4535,sg26445,26445.0,荣威iMAX8,2024,normalized_name_match,True
+荣威iMAX8,4535,sg26445,26445.0,荣威iMAX8,2025,normalized_name_match,True
+荣威iMAX8,4535,sg26445,26445.0,荣威iMAX8,2026,normalized_name_match,True
+飞行家,4339,sg26461,,,2023,unmatched,False
+飞行家,4339,sg26461,,,2024,unmatched,False
+坦克300,4615,sg26541,,,2025,unmatched,False
+欧拉好猫,4635,sg26572,26572.0,欧拉好猫,2022,normalized_name_match,True
+欧拉好猫,4635,sg26572,26572.0,欧拉好猫,2023,normalized_name_match,True
+欧拉好猫,4635,sg26572,26572.0,欧拉好猫,2024,normalized_name_match,True
+欧拉好猫,4635,sg26572,26572.0,欧拉好猫,2025,normalized_name_match,True
+欧拉好猫,4635,sg26572,26572.0,欧拉好猫,2026,normalized_name_match,True
+本田LIFE,4663,sg26573,,,2023,unmatched,False
+e爱丽舍,4391,sg26592,26592.0,e爱丽舍,2022,normalized_name_match,True
+e爱丽舍,4391,sg26592,26592.0,e爱丽舍,2023,normalized_name_match,True
+e爱丽舍,4391,sg26592,26592.0,e爱丽舍,2024,normalized_name_match,True
+e爱丽舍,4391,sg26592,26592.0,e爱丽舍,2025,normalized_name_match,True
+e爱丽舍,4391,sg26592,26592.0,e爱丽舍,2026,normalized_name_match,True
+岚图追光,sg26593,sg26593,,,2023,unmatched,False
+岚图追光,sg26593,sg26593,,,2024,unmatched,False
+岚图追光,sg26593,sg26593,,,2026,unmatched,False
+枫叶80v,4688,sg26606,,,2021,unmatched,False
+枫叶80v,4688,sg26606,,,2024,unmatched,False
+Model Y,4363,sg26651,26651.0,Model Y,2022,normalized_name_match,True
+Model Y,4363,sg26651,26651.0,Model Y,2023,normalized_name_match,True
+Model Y,4363,sg26651,26651.0,Model Y,2024,normalized_name_match,True
+Model Y,4363,sg26651,26651.0,Model Y,2026,normalized_name_match,True
+极狐 阿尔法S(ARCFOX αS),sg26664,sg26664,,,2023,unmatched,False
+极狐 阿尔法S(ARCFOX αS),sg26664,sg26664,,,2024,unmatched,False
+风行T5 EVO,4654,sg26721,,,2023,unmatched,False
+风行T5 EVO,4654,sg26721,,,2024,unmatched,False
+发现运动版新能源,sg26741,sg26741,,,2024,unmatched,False
+荣威i6 MAX新能源,sg26763,sg26763,26763.0,荣威i6 MAX新能源,2022,normalized_name_match,True
+荣威i6 MAX新能源,sg26763,sg26763,26763.0,荣威i6 MAX新能源,2023,normalized_name_match,True
+荣威i6 MAX新能源,sg26763,sg26763,26763.0,荣威i6 MAX新能源,2024,normalized_name_match,True
+荣威i6 MAX新能源,sg26763,sg26763,26763.0,荣威i6 MAX新能源,2025,normalized_name_match,True
+荣威i6 MAX新能源,sg26763,sg26763,26763.0,荣威i6 MAX新能源,2026,normalized_name_match,True
+悦虎,4388,sg26771,,,2023,unmatched,False
+远志M1,4542,sg26772,,,2024,unmatched,False
+远志M1,4542,sg26772,,,2025,unmatched,False
+本田CR-V新能源,sg26774,sg26774,,,2023,unmatched,False
+沃尔沃XC40新能源,sg26811,sg26811,,,2024,unmatched,False
+领裕,4759,sg26821,,,2023,unmatched,False
+风光500,4703,sg26831,,,2022,unmatched,False
+岚图FREE,sg26835,sg26835,,,2025,unmatched,False
+长安UNI-K,4783,sg26841,26841.0,长安UNI-K,2022,normalized_name_match,True
+长安UNI-K,4783,sg26841,26841.0,长安UNI-K,2023,normalized_name_match,True
+长安UNI-K,4783,sg26841,26841.0,长安UNI-K,2024,normalized_name_match,True
+长安UNI-K,4783,sg26841,26841.0,长安UNI-K,2025,normalized_name_match,True
+长安UNI-K,4783,sg26841,26841.0,长安UNI-K,2026,normalized_name_match,True
+奥迪Q3 Sportback,4990,sg26902,26902.0,奥迪Q3 Sportback,2022,normalized_name_match,True
+奥迪Q3 Sportback,4990,sg26902,26902.0,奥迪Q3 Sportback,2023,normalized_name_match,True
+奥迪Q3 Sportback,4990,sg26902,26902.0,奥迪Q3 Sportback,2024,normalized_name_match,True
+奥迪Q3 Sportback,4990,sg26902,26902.0,奥迪Q3 Sportback,2025,normalized_name_match,True
+奥迪Q3 Sportback,4990,sg26902,26902.0,奥迪Q3 Sportback,2026,normalized_name_match,True
+星途凌云,4792,sg26991,,,2025,unmatched,False
+ID.4 X,4258,sg26993,26993.0,ID.4 X,2022,normalized_name_match,True
+ID.4 X,4258,sg26993,26993.0,ID.4 X,2023,normalized_name_match,True
+ID.4 X,4258,sg26993,26993.0,ID.4 X,2024,normalized_name_match,True
+ID.4 X,4258,sg26993,26993.0,ID.4 X,2025,normalized_name_match,True
+ID.4 X,4258,sg26993,26993.0,ID.4 X,2026,normalized_name_match,True
+比亚迪D1,4638,sg26994,,,2022,unmatched,False
+比亚迪D1,4638,sg26994,,,2023,unmatched,False
+奥迪Q5L Sportback,4989,sg27003,27003.0,奥迪Q5L Sportback,2022,normalized_name_match,True
+奥迪Q5L Sportback,4989,sg27003,27003.0,奥迪Q5L Sportback,2023,normalized_name_match,True
+奥迪Q5L Sportback,4989,sg27003,27003.0,奥迪Q5L Sportback,2024,normalized_name_match,True
+奥迪Q5L Sportback,4989,sg27003,27003.0,奥迪Q5L Sportback,2025,normalized_name_match,True
+奥迪Q5L Sportback,4989,sg27003,27003.0,奥迪Q5L Sportback,2026,normalized_name_match,True
+影豹,4787,sg27011,27011.0,影豹,2022,normalized_name_match,True
+影豹,4787,sg27011,27011.0,影豹,2023,normalized_name_match,True
+影豹,4787,sg27011,27011.0,影豹,2024,normalized_name_match,True
+影豹,4787,sg27011,27011.0,影豹,2025,normalized_name_match,True
+影豹,4787,sg27011,27011.0,影豹,2026,normalized_name_match,True
+凌尚,sg27023,sg27023,27023.0,凌尚,2022,normalized_name_match,True
+凌尚,sg27023,sg27023,27023.0,凌尚,2023,normalized_name_match,True
+凌尚,sg27023,sg27023,27023.0,凌尚,2024,normalized_name_match,True
+凌尚,sg27023,sg27023,27023.0,凌尚,2025,normalized_name_match,True
+凌尚,sg27023,sg27023,27023.0,凌尚,2026,normalized_name_match,True
+思皓A5,4755,sg27025,,,2021,unmatched,False
+思皓A5,4755,sg27025,,,2022,unmatched,False
+威兰达新能源,sg27029,sg27029,,,2024,unmatched,False
+比亚迪e9,4797,sg27035,27035.0,比亚迪e9,2025,normalized_name_match,True
+比亚迪e9,4797,sg27035,27035.0,比亚迪e9,2026,normalized_name_match,True
+亚洲狮,sg27042,sg27042,27042.0,亚洲狮,2022,normalized_name_match,True
+亚洲狮,sg27042,sg27042,27042.0,亚洲狮,2023,normalized_name_match,True
+亚洲狮,sg27042,sg27042,27042.0,亚洲狮,2024,normalized_name_match,True
+亚洲狮,sg27042,sg27042,27042.0,亚洲狮,2025,normalized_name_match,True
+亚洲狮,sg27042,sg27042,27042.0,亚洲狮,2026,normalized_name_match,True
+秦PLUS,sg27043,sg27043,27043.0,秦PLUS,2022,normalized_name_match,True
+秦PLUS,sg27043,sg27043,27043.0,秦PLUS,2023,normalized_name_match,True
+秦PLUS,sg27043,sg27043,27043.0,秦PLUS,2024,normalized_name_match,True
+秦PLUS,sg27043,sg27043,27043.0,秦PLUS,2025,normalized_name_match,True
+秦PLUS,sg27043,sg27043,27043.0,秦PLUS,2026,normalized_name_match,True
+AION Y,4814,sg27081,,,2023,unmatched,False
+AION Y,4814,sg27081,,,2024,unmatched,False
+AION Y,4814,sg27081,,,2025,unmatched,False
+思皓花仙子,4819,sg27082,,,2023,unmatched,False
+RAV4荣放双擎E+,sg27091,sg27091,,,2024,unmatched,False
+星越L,4857,sg27132,27132.0,星越L,2022,normalized_name_match,True
+星越L,4857,sg27132,27132.0,星越L,2023,normalized_name_match,True
+星越L,4857,sg27132,27132.0,星越L,2024,normalized_name_match,True
+星越L,4857,sg27132,27132.0,星越L,2025,normalized_name_match,True
+星越L,4857,sg27132,27132.0,星越L,2026,normalized_name_match,True
+红旗E-QM5,5092,sg27171,27171.0,红旗E-QM5,2022,normalized_name_match,True
+红旗E-QM5,5092,sg27171,27171.0,红旗E-QM5,2023,normalized_name_match,True
+红旗E-QM5,5092,sg27171,27171.0,红旗E-QM5,2024,normalized_name_match,True
+红旗E-QM5,5092,sg27171,27171.0,红旗E-QM5,2025,normalized_name_match,True
+红旗E-QM5,5092,sg27171,27171.0,红旗E-QM5,2026,normalized_name_match,True
+奔腾NAT,sg27172,sg27172,,,2022,unmatched,False
+奔腾NAT,sg27172,sg27172,,,2023,unmatched,False
+奔腾NAT,sg27172,sg27172,,,2024,unmatched,False
+羿,4858,sg27176,,,2023,unmatched,False
+羿,4858,sg27176,,,2024,unmatched,False
+智己L7,4870,sg27191,27191.0,智己L7,2022,normalized_name_match,True
+智己L7,4870,sg27191,27191.0,智己L7,2023,normalized_name_match,True
+智己L7,4870,sg27191,27191.0,智己L7,2024,normalized_name_match,True
+智己L7,4870,sg27191,27191.0,智己L7,2025,normalized_name_match,True
+智己L7,4870,sg27191,27191.0,智己L7,2026,normalized_name_match,True
+智己LS7,4869,sg27192,,,2025,unmatched,False
+摩卡,sg27201,sg27201,27201.0,摩卡,2021,normalized_name_match,True
+摩卡,sg27201,sg27201,27201.0,摩卡,2022,normalized_name_match,True
+魏牌 摩卡新能源,sg27202,sg27202,,,2024,unmatched,False
+魏牌 摩卡新能源,sg27202,sg27202,,,2026,unmatched,False
+福特电马,sg27231,sg27231,,,2024,unmatched,False
+ID.6 X,4894,sg27251,,,2023,unmatched,False
+哈弗赤兔,sg27301,sg27301,,,2023,unmatched,False
+卡罗拉,542,sg2734,2734.0,卡罗拉,2022,normalized_name_match,True
+卡罗拉,542,sg2734,2734.0,卡罗拉,2023,normalized_name_match,True
+卡罗拉,542,sg2734,2734.0,卡罗拉,2024,normalized_name_match,True
+卡罗拉,542,sg2734,2734.0,卡罗拉,2025,normalized_name_match,True
+卡罗拉,542,sg2734,2734.0,卡罗拉,2026,normalized_name_match,True
+ID.6 CROZZ,sg27362,sg27362,27362.0,ID.6 CROZZ,2022,normalized_name_match,True
+ID.6 CROZZ,sg27362,sg27362,27362.0,ID.6 CROZZ,2023,normalized_name_match,True
+ID.6 CROZZ,sg27362,sg27362,27362.0,ID.6 CROZZ,2024,normalized_name_match,True
+ID.6 CROZZ,sg27362,sg27362,27362.0,ID.6 CROZZ,2025,normalized_name_match,True
+ID.6 CROZZ,sg27362,sg27362,27362.0,ID.6 CROZZ,2026,normalized_name_match,True
+起亚EV6,4943,sg27363,,,2023,unmatched,False
+皇冠陆放,4840,sg27393,27393.0,皇冠陆放,2022,normalized_name_match,True
+皇冠陆放,4840,sg27393,27393.0,皇冠陆放,2023,normalized_name_match,True
+皇冠陆放,4840,sg27393,27393.0,皇冠陆放,2024,normalized_name_match,True
+皇冠陆放,4840,sg27393,27393.0,皇冠陆放,2025,normalized_name_match,True
+皇冠陆放,4840,sg27393,27393.0,皇冠陆放,2026,normalized_name_match,True
+飞凡R7,4980,sg27402,,,2025,unmatched,False
+元Pro,sg27403,sg27403,,,2023,unmatched,False
+极氪001,sg27421,sg27421,27421.0,极氪001,2022,normalized_name_match,True
+极氪001,sg27421,sg27421,27421.0,极氪001,2023,normalized_name_match,True
+极氪001,sg27421,sg27421,27421.0,极氪001,2024,normalized_name_match,True
+极氪001,sg27421,sg27421,27421.0,极氪001,2025,normalized_name_match,True
+极氪001,sg27421,sg27421,27421.0,极氪001,2026,normalized_name_match,True
+小虎FEV,5014,sg27422,27422.0,小虎FEV,2022,normalized_name_match,True
+小虎FEV,5014,sg27422,27422.0,小虎FEV,2023,normalized_name_match,True
+小虎FEV,5014,sg27422,27422.0,小虎FEV,2024,normalized_name_match,True
+大家9,sg27431,sg27431,27431.0,大家9,2022,normalized_name_match,True
+大家9,sg27431,sg27431,27431.0,大家9,2023,normalized_name_match,True
+大家9,sg27431,sg27431,27431.0,大家9,2024,normalized_name_match,True
+大家9,sg27431,sg27431,27431.0,大家9,2025,normalized_name_match,True
+大家9,sg27431,sg27431,27431.0,大家9,2026,normalized_name_match,True
+皓影新能源,sg27432,sg27432,27432.0,皓影新能源,2022,normalized_name_match,True
+皓影新能源,sg27432,sg27432,27432.0,皓影新能源,2023,normalized_name_match,True
+皓影新能源,sg27432,sg27432,27432.0,皓影新能源,2024,normalized_name_match,True
+皓影新能源,sg27432,sg27432,27432.0,皓影新能源,2025,normalized_name_match,True
+皓影新能源,sg27432,sg27432,27432.0,皓影新能源,2026,normalized_name_match,True
+小鹏P5,sg27442,sg27442,27442.0,小鹏P5,2022,normalized_name_match,True
+小鹏P5,sg27442,sg27442,27442.0,小鹏P5,2023,normalized_name_match,True
+小鹏P5,sg27442,sg27442,27442.0,小鹏P5,2024,normalized_name_match,True
+库斯途,5034,sg27451,27451.0,库斯途,2022,normalized_name_match,True
+库斯途,5034,sg27451,27451.0,库斯途,2023,normalized_name_match,True
+库斯途,5034,sg27451,27451.0,库斯途,2024,normalized_name_match,True
+库斯途,5034,sg27451,27451.0,库斯途,2025,normalized_name_match,True
+库斯途,5034,sg27451,27451.0,库斯途,2026,normalized_name_match,True
+五菱星辰,sg27453,sg27453,,,2021,unmatched,False
+五菱星辰,sg27453,sg27453,,,2022,unmatched,False
+轩度,5033,sg27455,,,2024,unmatched,False
+凡尔赛C5 X,5048,sg27461,27461.0,凡尔赛C5 X,2022,normalized_name_match,True
+凡尔赛C5 X,5048,sg27461,27461.0,凡尔赛C5 X,2023,normalized_name_match,True
+凡尔赛C5 X,5048,sg27461,27461.0,凡尔赛C5 X,2024,normalized_name_match,True
+凡尔赛C5 X,5048,sg27461,27461.0,凡尔赛C5 X,2025,normalized_name_match,True
+凡尔赛C5 X,5048,sg27461,27461.0,凡尔赛C5 X,2026,normalized_name_match,True
+红旗H5 PHEV,3801,sg27471,27471.0,红旗H5 PHEV,2025,normalized_name_match,True
+红旗H5 PHEV,3801,sg27471,27471.0,红旗H5 PHEV,2026,normalized_name_match,True
+长安欧尚X7 PLUS,sg27472,sg27472,,,2023,unmatched,False
+欧拉闪电猫,5053,sg27476,27476.0,欧拉闪电猫,2022,normalized_name_match,True
+欧拉闪电猫,5053,sg27476,27476.0,欧拉闪电猫,2023,normalized_name_match,True
+欧拉闪电猫,5053,sg27476,27476.0,欧拉闪电猫,2024,normalized_name_match,True
+欧拉闪电猫,5053,sg27476,27476.0,欧拉闪电猫,2025,normalized_name_match,True
+海豚,5008,sg27496,27496.0,海豚,2022,normalized_name_match,True
+海豚,5008,sg27496,27496.0,海豚,2023,normalized_name_match,True
+海豚,5008,sg27496,27496.0,海豚,2024,normalized_name_match,True
+海豚,5008,sg27496,27496.0,海豚,2025,normalized_name_match,True
+海豚,5008,sg27496,27496.0,海豚,2026,normalized_name_match,True
+马自达CX-30 EV,sg27501,sg27501,,,2021,unmatched,False
+领克09,5081,sg27502,,,2024,unmatched,False
+领克09,5081,sg27502,,,2026,unmatched,False
+哪吒S,sg27503,sg27503,,,2024,unmatched,False
+星途瑶光,5953,sg27511,,,2026,unmatched,False
+星途瑶光,5953,sg27511,,,2027,unmatched,False
+捷途X90 PLUS,5082,sg27513,,,2024,unmatched,False
+捷途X90 PLUS,5082,sg27513,,,2025,unmatched,False
+坦克700新能源,sg27514,sg27514,,,2024,unmatched,False
+坦克700新能源,sg27514,sg27514,,,2026,unmatched,False
+合创Z03,sg27516,sg27516,,,2022,unmatched,False
+北京U5 PLUS,5101,sg27531,,,2023,unmatched,False
+奥迪Q5 e-tron,5002,sg27551,27551.0,奥迪Q5 e-tron,2022,normalized_name_match,True
+奥迪Q5 e-tron,5002,sg27551,27551.0,奥迪Q5 e-tron,2023,normalized_name_match,True
+奥迪Q5 e-tron,5002,sg27551,27551.0,奥迪Q5 e-tron,2024,normalized_name_match,True
+奥迪Q5 e-tron,5002,sg27551,27551.0,奥迪Q5 e-tron,2025,normalized_name_match,True
+护卫舰07,sg27552,sg27552,27552.0,护卫舰07,2022,normalized_name_match,True
+护卫舰07,sg27552,sg27552,27552.0,护卫舰07,2023,normalized_name_match,True
+护卫舰07,sg27552,sg27552,27552.0,护卫舰07,2024,normalized_name_match,True
+护卫舰07,sg27552,sg27552,27552.0,护卫舰07,2025,normalized_name_match,True
+护卫舰07,sg27552,sg27552,27552.0,护卫舰07,2026,normalized_name_match,True
+风行游艇,sg27582,sg27582,,,2022,unmatched,False
+风行游艇,sg27582,sg27582,,,2023,unmatched,False
+风行游艇,sg27582,sg27582,,,2024,unmatched,False
+EVOS,sg27583,sg27583,27583.0,EVOS,2022,normalized_name_match,True
+EVOS,sg27583,sg27583,27583.0,EVOS,2023,normalized_name_match,True
+EVOS,sg27583,sg27583,27583.0,EVOS,2024,normalized_name_match,True
+宝骏KiWi EV,sg27591,sg27591,27591.0,宝骏KiWi EV,2022,normalized_name_match,True
+宝骏KiWi EV,sg27591,sg27591,27591.0,宝骏KiWi EV,2023,normalized_name_match,True
+宝骏KiWi EV,sg27591,sg27591,27591.0,宝骏KiWi EV,2024,normalized_name_match,True
+宝骏KiWi EV,sg27591,sg27591,27591.0,宝骏KiWi EV,2025,normalized_name_match,True
+宝骏KiWi EV,sg27591,sg27591,27591.0,宝骏KiWi EV,2026,normalized_name_match,True
+奔驰EQB,3932,sg27691,,,2025,unmatched,False
+启辰大V,5153,sg27693,,,2023,unmatched,False
+启辰大V,5153,sg27693,,,2024,unmatched,False
+启辰大V,5153,sg27693,,,2026,unmatched,False
+传祺GS4 PLUS,sg27745,sg27745,,,2023,unmatched,False
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2022,normalized_name_match,True
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2023,normalized_name_match,True
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2024,normalized_name_match,True
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2025,normalized_name_match,True
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2026,normalized_name_match,True
+赛那SIENNA,sg27747,sg27747,27747.0,赛那SIENNA,2027,normalized_name_match,True
+奔驰EQA,1729,sg27753,,,2025,unmatched,False
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2021,normalized_name_match,True
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2022,normalized_name_match,True
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2023,normalized_name_match,True
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2024,normalized_name_match,True
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2025,normalized_name_match,True
+五菱征程,sg27762,sg27762,27762.0,五菱征程,2026,normalized_name_match,True
+凌放HARRIER,sg27803,sg27803,27803.0,凌放HARRIER,2022,normalized_name_match,True
+凌放HARRIER,sg27803,sg27803,27803.0,凌放HARRIER,2023,normalized_name_match,True
+凌放HARRIER,sg27803,sg27803,27803.0,凌放HARRIER,2024,normalized_name_match,True
+凌放HARRIER,sg27803,sg27803,27803.0,凌放HARRIER,2025,normalized_name_match,True
+凌放HARRIER,sg27803,sg27803,27803.0,凌放HARRIER,2026,normalized_name_match,True
+哈弗神兽,sg27804,sg27804,,,2023,unmatched,False
+MG ONE,sg27805,sg27805,,,2023,unmatched,False
+元PLUS,5248,sg27808,27808.0,元PLUS,2022,normalized_name_match,True
+元PLUS,5248,sg27808,27808.0,元PLUS,2023,normalized_name_match,True
+元PLUS,5248,sg27808,27808.0,元PLUS,2024,normalized_name_match,True
+元PLUS,5248,sg27808,27808.0,元PLUS,2025,normalized_name_match,True
+元PLUS,5248,sg27808,27808.0,元PLUS,2026,normalized_name_match,True
+金海狮,sg27814,sg27814,,,2024,unmatched,False
+QQ冰淇淋,sg27822,sg27822,27822.0,QQ冰淇淋,2022,normalized_name_match,True
+QQ冰淇淋,sg27822,sg27822,27822.0,QQ冰淇淋,2023,normalized_name_match,True
+QQ冰淇淋,sg27822,sg27822,27822.0,QQ冰淇淋,2024,normalized_name_match,True
+QQ冰淇淋,sg27822,sg27822,27822.0,QQ冰淇淋,2025,normalized_name_match,True
+QQ冰淇淋,sg27822,sg27822,27822.0,QQ冰淇淋,2026,normalized_name_match,True
+坦克500,5238,sg27834,,,2026,unmatched,False
+领克09新能源,sg27872,sg27872,,,2023,unmatched,False
+领克09新能源,sg27872,sg27872,,,2024,unmatched,False
+领克09新能源,sg27872,sg27872,,,2025,unmatched,False
+英菲尼迪QX60,5294,sg27873,,,2024,unmatched,False
+长安UNI-V,5288,sg27881,27881.0,长安UNI-V,2022,normalized_name_match,True
+长安UNI-V,5288,sg27881,27881.0,长安UNI-V,2023,normalized_name_match,True
+长安UNI-V,5288,sg27881,27881.0,长安UNI-V,2024,normalized_name_match,True
+长安UNI-V,5288,sg27881,27881.0,长安UNI-V,2025,normalized_name_match,True
+长安UNI-V,5288,sg27881,27881.0,长安UNI-V,2026,normalized_name_match,True
+驱逐舰05,5290,sg27924,27924.0,驱逐舰05,2022,normalized_name_match,True
+驱逐舰05,5290,sg27924,27924.0,驱逐舰05,2023,normalized_name_match,True
+驱逐舰05,5290,sg27924,27924.0,驱逐舰05,2024,normalized_name_match,True
+驱逐舰05,5290,sg27924,27924.0,驱逐舰05,2025,normalized_name_match,True
+驱逐舰05,5290,sg27924,27924.0,驱逐舰05,2026,normalized_name_match,True
+欧拉芭蕾猫,5297,sg27932,,,2023,unmatched,False
+深蓝SL03,5306,sg27941,27941.0,深蓝SL03,2022,normalized_name_match,True
+深蓝SL03,5306,sg27941,27941.0,深蓝SL03,2023,normalized_name_match,True
+深蓝SL03,5306,sg27941,27941.0,深蓝SL03,2024,normalized_name_match,True
+深蓝SL03,5306,sg27941,27941.0,深蓝SL03,2025,normalized_name_match,True
+深蓝SL03,5306,sg27941,27941.0,深蓝SL03,2026,normalized_name_match,True
+欧萌达,5162,sg27951,,,2025,unmatched,False
+坦克400,5312,sg27956,,,2026,unmatched,False
+smart精灵#1,5322,sg28002,,,2026,unmatched,False
+型格,5340,sg28005,28005.0,型格,2022,normalized_name_match,True
+型格,5340,sg28005,28005.0,型格,2023,normalized_name_match,True
+型格,5340,sg28005,28005.0,型格,2024,normalized_name_match,True
+型格,5340,sg28005,28005.0,型格,2025,normalized_name_match,True
+型格,5340,sg28005,28005.0,型格,2026,normalized_name_match,True
+威飒,5339,sg28006,28006.0,威飒,2022,normalized_name_match,True
+威飒,5339,sg28006,28006.0,威飒,2023,normalized_name_match,True
+威飒,5339,sg28006,28006.0,威飒,2024,normalized_name_match,True
+威飒,5339,sg28006,28006.0,威飒,2025,normalized_name_match,True
+威飒,5339,sg28006,28006.0,威飒,2026,normalized_name_match,True
+海豹,5579,sg28011,28011.0,海豹,2022,normalized_name_match,True
+海豹,5579,sg28011,28011.0,海豹,2023,normalized_name_match,True
+海豹,5579,sg28011,28011.0,海豹,2024,normalized_name_match,True
+海豹,5579,sg28011,28011.0,海豹,2025,normalized_name_match,True
+海豹,5579,sg28011,28011.0,海豹,2026,normalized_name_match,True
+长安UNI-K 智电iDD,5216,sg28032,28032.0,长安UNI-K 智电iDD,2022,normalized_name_match,True
+长安UNI-K 智电iDD,5216,sg28032,28032.0,长安UNI-K 智电iDD,2023,normalized_name_match,True
+长安UNI-K 智电iDD,5216,sg28032,28032.0,长安UNI-K 智电iDD,2024,normalized_name_match,True
+长安UNI-K 智电iDD,5216,sg28032,28032.0,长安UNI-K 智电iDD,2025,normalized_name_match,True
+长安UNI-K 智电iDD,5216,sg28032,28032.0,长安UNI-K 智电iDD,2026,normalized_name_match,True
+炫界Pro EV,5367,sg28053,,,2023,unmatched,False
+锋兰达,5369,sg28071,28071.0,锋兰达,2022,normalized_name_match,True
+锋兰达,5369,sg28071,28071.0,锋兰达,2023,normalized_name_match,True
+锋兰达,5369,sg28071,28071.0,锋兰达,2024,normalized_name_match,True
+锋兰达,5369,sg28071,28071.0,锋兰达,2025,normalized_name_match,True
+锋兰达,5369,sg28071,28071.0,锋兰达,2026,normalized_name_match,True
+卡罗拉锐放,5382,sg28123,28123.0,卡罗拉锐放,2022,normalized_name_match,True
+卡罗拉锐放,5382,sg28123,28123.0,卡罗拉锐放,2023,normalized_name_match,True
+卡罗拉锐放,5382,sg28123,28123.0,卡罗拉锐放,2024,normalized_name_match,True
+卡罗拉锐放,5382,sg28123,28123.0,卡罗拉锐放,2025,normalized_name_match,True
+卡罗拉锐放,5382,sg28123,28123.0,卡罗拉锐放,2026,normalized_name_match,True
+e:NP1 极湃1,sg28131,sg28131,,,2022,unmatched,False
+红旗国耀,sg28211,sg28211,28211.0,红旗国耀,2022,normalized_name_match,True
+红旗国耀,sg28211,sg28211,28211.0,红旗国耀,2023,normalized_name_match,True
+红旗国耀,sg28211,sg28211,28211.0,红旗国耀,2024,normalized_name_match,True
+红旗国耀,sg28211,sg28211,28211.0,红旗国耀,2025,normalized_name_match,True
+红旗国耀,sg28211,sg28211,28211.0,红旗国耀,2026,normalized_name_match,True
+迈腾,415,sg2824,2824.0,迈腾,2022,normalized_name_match,True
+迈腾,415,sg2824,2824.0,迈腾,2023,normalized_name_match,True
+迈腾,415,sg2824,2824.0,迈腾,2024,normalized_name_match,True
+迈腾,415,sg2824,2824.0,迈腾,2025,normalized_name_match,True
+迈腾,415,sg2824,2824.0,迈腾,2026,normalized_name_match,True
+领睿,5388,sg28253,,,2023,unmatched,False
+领睿,5388,sg28253,,,2025,unmatched,False
+林肯Z,5440,sg28261,28261.0,林肯Z,2022,normalized_name_match,True
+林肯Z,5440,sg28261,28261.0,林肯Z,2023,normalized_name_match,True
+林肯Z,5440,sg28261,28261.0,林肯Z,2024,normalized_name_match,True
+林肯Z,5440,sg28261,28261.0,林肯Z,2025,normalized_name_match,True
+林肯Z,5440,sg28261,28261.0,林肯Z,2026,normalized_name_match,True
+长安欧尚Z6,5439,sg28262,,,2023,unmatched,False
+大通G90,5438,sg28271,28271.0,大通G90,2022,normalized_name_match,True
+大通G90,5438,sg28271,28271.0,大通G90,2023,normalized_name_match,True
+大通G90,5438,sg28271,28271.0,大通G90,2024,normalized_name_match,True
+大通G90,5438,sg28271,28271.0,大通G90,2025,normalized_name_match,True
+大通G90,5438,sg28271,28271.0,大通G90,2026,normalized_name_match,True
+IQ锐歌,5358,sg28281,28281.0,IQ锐歌,2022,normalized_name_match,True
+IQ锐歌,5358,sg28281,28281.0,IQ锐歌,2023,normalized_name_match,True
+IQ锐歌,5358,sg28281,28281.0,IQ锐歌,2024,normalized_name_match,True
+IQ锐歌,5358,sg28281,28281.0,IQ锐歌,2025,normalized_name_match,True
+IQ锐歌,5358,sg28281,28281.0,IQ锐歌,2026,normalized_name_match,True
+阿维塔 11,5308,sg28312,,,2025,unmatched,False
+奔腾B70S,sg28313,sg28313,,,2023,unmatched,False
+小鹏G9,sg28341,sg28341,,,2025,unmatched,False
+小鹏G9,sg28341,sg28341,,,2026,unmatched,False
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2022,normalized_name_match,True
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2023,normalized_name_match,True
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2024,normalized_name_match,True
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2025,normalized_name_match,True
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2026,normalized_name_match,True
+岚图梦想家,sg28371,sg28371,28371.0,岚图梦想家,2027,normalized_name_match,True
+奥迪Q4 e-tron,4334,sg28384,28384.0,奥迪Q4 e-tron,2022,normalized_name_match,True
+奥迪Q4 e-tron,4334,sg28384,28384.0,奥迪Q4 e-tron,2023,normalized_name_match,True
+奥迪Q4 e-tron,4334,sg28384,28384.0,奥迪Q4 e-tron,2024,normalized_name_match,True
+奥迪Q4 e-tron,4334,sg28384,28384.0,奥迪Q4 e-tron,2025,normalized_name_match,True
+奥迪Q4 e-tron,4334,sg28384,28384.0,奥迪Q4 e-tron,2026,normalized_name_match,True
+瑞风E3,5474,sg28391,28391.0,瑞风E3,2022,normalized_name_match,True
+瑞风E3,5474,sg28391,28391.0,瑞风E3,2023,normalized_name_match,True
+瑞风E3,5474,sg28391,28391.0,瑞风E3,2024,normalized_name_match,True
+瑞风E3,5474,sg28391,28391.0,瑞风E3,2025,normalized_name_match,True
+瑞风E3,5474,sg28391,28391.0,瑞风E3,2026,normalized_name_match,True
+影酷,5468,sg28401,,,2022,unmatched,False
+合创A06,sg28425,sg28425,28425.0,合创A06,2022,normalized_name_match,True
+合创A06,sg28425,sg28425,28425.0,合创A06,2023,normalized_name_match,True
+合创A06,sg28425,sg28425,28425.0,合创A06,2024,normalized_name_match,True
+合创A06,sg28425,sg28425,28425.0,合创A06,2025,normalized_name_match,True
+问界M5,sg28441,sg28441,,,2025,unmatched,False
+捷途大圣,5244,sg28444,,,2025,unmatched,False
+捷途大圣,5244,sg28444,,,2026,unmatched,False
+蔚来ET5,5409,sg28446,28446.0,蔚来ET5,2022,normalized_name_match,True
+蔚来ET5,5409,sg28446,28446.0,蔚来ET5,2023,normalized_name_match,True
+蔚来ET5,5409,sg28446,28446.0,蔚来ET5,2024,normalized_name_match,True
+蔚来ET5,5409,sg28446,28446.0,蔚来ET5,2025,normalized_name_match,True
+蔚来ET5,5409,sg28446,28446.0,蔚来ET5,2026,normalized_name_match,True
+宝马X5,5273,sg28452,28452.0,宝马X5,2022,normalized_name_match,True
+宝马X5,5273,sg28452,28452.0,宝马X5,2023,normalized_name_match,True
+宝马X5,5273,sg28452,28452.0,宝马X5,2024,normalized_name_match,True
+宝马X5,5273,sg28452,28452.0,宝马X5,2025,normalized_name_match,True
+宝马X5,5273,sg28452,28452.0,宝马X5,2026,normalized_name_match,True
+宝马i3,4838,sg28462,28462.0,宝马i3,2022,normalized_name_match,True
+宝马i3,4838,sg28462,28462.0,宝马i3,2023,normalized_name_match,True
+宝马i3,4838,sg28462,28462.0,宝马i3,2024,normalized_name_match,True
+宝马i3,4838,sg28462,28462.0,宝马i3,2025,normalized_name_match,True
+宝马i3,4838,sg28462,28462.0,宝马i3,2026,normalized_name_match,True
+皓极,5557,sg28542,,,2022,unmatched,False
+皓极,5557,sg28542,,,2025,unmatched,False
+捷途旅行者,5563,sg28569,,,2024,unmatched,False
+捷途旅行者,5563,sg28569,,,2025,unmatched,False
+捷途旅行者,5563,sg28569,,,2026,unmatched,False
+星途追风C-DM,5567,sg28572,,,2024,unmatched,False
+元宝,sg28594,sg28594,,,2022,unmatched,False
+元宝,sg28594,sg28594,,,2023,unmatched,False
+风光MINIEV,5389,sg28598,,,2022,unmatched,False
+枫叶60s,5151,sg28601,28601.0,枫叶60s,2022,normalized_name_match,True
+枫叶60s,5151,sg28601,28601.0,枫叶60s,2023,normalized_name_match,True
+枫叶60s,5151,sg28601,28601.0,枫叶60s,2024,normalized_name_match,True
+枫叶60s,5151,sg28601,28601.0,枫叶60s,2025,normalized_name_match,True
+枫叶60s,5151,sg28601,28601.0,枫叶60s,2026,normalized_name_match,True
+零跑C01,sg28614,sg28614,,,2024,unmatched,False
+凌宝Uni,5385,sg28623,,,2023,unmatched,False
+凌宝Uni,5385,sg28623,,,2025,unmatched,False
+荣威iMAX8新能源,sg28636,sg28636,28636.0,荣威iMAX8新能源,2022,normalized_name_match,True
+荣威iMAX8新能源,sg28636,sg28636,28636.0,荣威iMAX8新能源,2023,normalized_name_match,True
+荣威iMAX8新能源,sg28636,sg28636,28636.0,荣威iMAX8新能源,2024,normalized_name_match,True
+荣威iMAX8新能源,sg28636,sg28636,28636.0,荣威iMAX8新能源,2025,normalized_name_match,True
+荣威iMAX8新能源,sg28636,sg28636,28636.0,荣威iMAX8新能源,2026,normalized_name_match,True
+几何E萤火虫,sg28637,sg28637,,,2024,unmatched,False
+奥迪Q6,5364,sg28645,,,2025,unmatched,False
+奥迪Q6,5364,sg28645,,,2026,unmatched,False
+奔驰EQE,5813,sg28647,,,2025,unmatched,False
+奔驰EQE,5813,sg28647,,,2026,unmatched,False
+蔚来ES7,sg28661,sg28661,,,2024,unmatched,False
+沃尔沃C40,sg28671,sg28671,28671.0,沃尔沃C40,2022,normalized_name_match,True
+沃尔沃C40,sg28671,sg28671,28671.0,沃尔沃C40,2023,normalized_name_match,True
+沃尔沃C40,sg28671,sg28671,28671.0,沃尔沃C40,2024,normalized_name_match,True
+沃尔沃C40,sg28671,sg28671,28671.0,沃尔沃C40,2025,normalized_name_match,True
+五菱佳辰,sg28681,sg28681,28681.0,五菱佳辰,2022,normalized_name_match,True
+五菱佳辰,sg28681,sg28681,28681.0,五菱佳辰,2023,normalized_name_match,True
+五菱佳辰,sg28681,sg28681,28681.0,五菱佳辰,2024,normalized_name_match,True
+五菱佳辰,sg28681,sg28681,28681.0,五菱佳辰,2025,normalized_name_match,True
+五菱佳辰,sg28681,sg28681,28681.0,五菱佳辰,2026,normalized_name_match,True
+理想L9,5227,sg28684,,,2026,unmatched,False
+风光380,5390,sg28692,28692.0,风光380,2022,normalized_name_match,True
+风光380,5390,sg28692,28692.0,风光380,2023,normalized_name_match,True
+风光380,5390,sg28692,28692.0,风光380,2024,normalized_name_match,True
+风光380,5390,sg28692,28692.0,风光380,2025,normalized_name_match,True
+风光380,5390,sg28692,28692.0,风光380,2026,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2022,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2023,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2024,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2025,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2026,normalized_name_match,True
+艾瑞泽8,5852,sg28700,28700.0,艾瑞泽8,2027,normalized_name_match,True
+MG4,sg28701,sg28701,28701.0,MG4,2022,normalized_name_match,True
+MG4,sg28701,sg28701,28701.0,MG4,2023,normalized_name_match,True
+MG4,sg28701,sg28701,28701.0,MG4,2024,normalized_name_match,True
+MG4,sg28701,sg28701,28701.0,MG4,2025,normalized_name_match,True
+MG4,sg28701,sg28701,28701.0,MG4,2026,normalized_name_match,True
+长安Lumin,5859,sg28707,28707.0,长安Lumin,2022,normalized_name_match,True
+长安Lumin,5859,sg28707,28707.0,长安Lumin,2023,normalized_name_match,True
+长安Lumin,5859,sg28707,28707.0,长安Lumin,2024,normalized_name_match,True
+长安Lumin,5859,sg28707,28707.0,长安Lumin,2025,normalized_name_match,True
+长安Lumin,5859,sg28707,28707.0,长安Lumin,2026,normalized_name_match,True
+格瑞维亚,5858,sg28711,28711.0,格瑞维亚,2022,normalized_name_match,True
+格瑞维亚,5858,sg28711,28711.0,格瑞维亚,2023,normalized_name_match,True
+格瑞维亚,5858,sg28711,28711.0,格瑞维亚,2024,normalized_name_match,True
+格瑞维亚,5858,sg28711,28711.0,格瑞维亚,2025,normalized_name_match,True
+格瑞维亚,5858,sg28711,28711.0,格瑞维亚,2026,normalized_name_match,True
+腾势D9,sg28718,sg28718,28718.0,腾势D9,2022,normalized_name_match,True
+腾势D9,sg28718,sg28718,28718.0,腾势D9,2023,normalized_name_match,True
+腾势D9,sg28718,sg28718,28718.0,腾势D9,2024,normalized_name_match,True
+腾势D9,sg28718,sg28718,28718.0,腾势D9,2025,normalized_name_match,True
+腾势D9,sg28718,sg28718,28718.0,腾势D9,2026,normalized_name_match,True
+问界M7,sg28721,sg28721,,,2026,unmatched,False
+北京BJ60,sg28722,sg28722,,,2022,unmatched,False
+北京BJ60,sg28722,sg28722,,,2023,unmatched,False
+北京BJ60,sg28722,sg28722,,,2026,unmatched,False
+创维HT-i,5871,sg28723,,,2023,unmatched,False
+创维HT-i,5871,sg28723,,,2024,unmatched,False
+创维HT-i,5871,sg28723,,,2025,unmatched,False
+创维HT-i,5871,sg28723,,,2026,unmatched,False
+VGV U70 PRO,sg28741,sg28741,,,2022,unmatched,False
+ARIYA 艾睿雅,5895,sg28742,28742.0,ARIYA艾睿雅,2022,normalized_name_match,True
+ARIYA 艾睿雅,5895,sg28742,28742.0,ARIYA艾睿雅,2023,normalized_name_match,True
+ARIYA 艾睿雅,5895,sg28742,28742.0,ARIYA艾睿雅,2024,normalized_name_match,True
+ARIYA 艾睿雅,5895,sg28742,28742.0,ARIYA艾睿雅,2025,normalized_name_match,True
+ARIYA 艾睿雅,5895,sg28742,28742.0,ARIYA艾睿雅,2026,normalized_name_match,True
+荣威RX9,sg28747,sg28747,,,2026,unmatched,False
+五菱Air ev晴空,sg28748,sg28748,,,2022,unmatched,False
+星迈罗,5897,sg28751,,,2022,unmatched,False
+星迈罗,5897,sg28751,,,2023,unmatched,False
+理想L8,6095,sg28754,,,2026,unmatched,False
+smart精灵#3,6272,sg28755,,,2026,unmatched,False
+ZR-V 致在,sg28782,sg28782,,,2023,unmatched,False
+长安UNI-V 智电iDD,5923,sg28788,,,2024,unmatched,False
+红旗HQ9,5905,sg28789,28789.0,红旗HQ9,2022,normalized_name_match,True
+红旗HQ9,5905,sg28789,28789.0,红旗HQ9,2023,normalized_name_match,True
+红旗HQ9,5905,sg28789,28789.0,红旗HQ9,2024,normalized_name_match,True
+红旗HQ9,5905,sg28789,28789.0,红旗HQ9,2025,normalized_name_match,True
+红旗HQ9,5905,sg28789,28789.0,红旗HQ9,2026,normalized_name_match,True
+睿蓝汽车X3 PRO,sg28791,sg28791,,,2024,unmatched,False
+揽巡,5929,sg28793,28793.0,揽巡,2022,normalized_name_match,True
+揽巡,5929,sg28793,28793.0,揽巡,2023,normalized_name_match,True
+揽巡,5929,sg28793,28793.0,揽巡,2024,normalized_name_match,True
+揽巡,5929,sg28793,28793.0,揽巡,2025,normalized_name_match,True
+揽巡,5929,sg28793,28793.0,揽巡,2026,normalized_name_match,True
+别克E5,6271,sg28813,,,2025,unmatched,False
+纳米BOX,sg28843,sg28843,,,2023,unmatched,False
+昂扬,sg28863,sg28863,,,2022,unmatched,False
+五菱星驰,sg28864,sg28864,28864.0,五菱星驰,2022,normalized_name_match,True
+五菱星驰,sg28864,sg28864,28864.0,五菱星驰,2023,normalized_name_match,True
+五菱星驰,sg28864,sg28864,28864.0,五菱星驰,2024,normalized_name_match,True
+五菱星驰,sg28864,sg28864,28864.0,五菱星驰,2025,normalized_name_match,True
+五菱星驰,sg28864,sg28864,28864.0,五菱星驰,2026,normalized_name_match,True
+奔腾M9,sg28868,sg28868,,,2023,unmatched,False
+海鸥,5952,sg28871,28871.0,海鸥,2023,normalized_name_match,True
+海鸥,5952,sg28871,28871.0,海鸥,2024,normalized_name_match,True
+海鸥,5952,sg28871,28871.0,海鸥,2025,normalized_name_match,True
+海鸥,5952,sg28871,28871.0,海鸥,2026,normalized_name_match,True
+标致408X,5992,sg28881,28881.0,标致408X,2023,normalized_name_match,True
+标致408X,5992,sg28881,28881.0,标致408X,2024,normalized_name_match,True
+标致408X,5992,sg28881,28881.0,标致408X,2025,normalized_name_match,True
+标致408X,5992,sg28881,28881.0,标致408X,2026,normalized_name_match,True
+睿蓝9,6003,sg28883,,,2023,unmatched,False
+睿蓝7,5997,sg28892,,,2023,unmatched,False
+睿蓝7,5997,sg28892,,,2024,unmatched,False
+大家5,sg28894,sg28894,,,2024,unmatched,False
+博越L,6025,sg28932,,,2025,unmatched,False
+博越L,6025,sg28932,,,2026,unmatched,False
+深蓝S07,6027,sg28935,,,2026,unmatched,False
+本田HR-V,6036,sg28953,28953.0,本田HR-V,2023,normalized_name_match,True
+本田HR-V,6036,sg28953,28953.0,本田HR-V,2024,normalized_name_match,True
+本田HR-V,6036,sg28953,28953.0,本田HR-V,2025,normalized_name_match,True
+本田HR-V,6036,sg28953,28953.0,本田HR-V,2026,normalized_name_match,True
+长安欧尚X5 PLUS,sg28954,sg28954,,,2023,unmatched,False
+凯翼拾月,sg28972,sg28972,28972.0,凯翼拾月,2023,normalized_name_match,True
+凯翼拾月,sg28972,sg28972,28972.0,凯翼拾月,2024,normalized_name_match,True
+凯翼拾月,sg28972,sg28972,28972.0,凯翼拾月,2025,normalized_name_match,True
+凯翼拾月,sg28972,sg28972,28972.0,凯翼拾月,2026,normalized_name_match,True
+轩度EV,sg28982,sg28982,28982.0,轩度EV,2024,normalized_name_match,True
+轩度EV,sg28982,sg28982,28982.0,轩度EV,2025,normalized_name_match,True
+轩度EV,sg28982,sg28982,28982.0,轩度EV,2026,normalized_name_match,True
+极氪009,sg28991,sg28991,28991.0,极氪009,2023,normalized_name_match,True
+极氪009,sg28991,sg28991,28991.0,极氪009,2024,normalized_name_match,True
+极氪009,sg28991,sg28991,28991.0,极氪009,2025,normalized_name_match,True
+极氪009,sg28991,sg28991,28991.0,极氪009,2026,normalized_name_match,True
+理想MEGA,6067,sg28995,28995.0,理想MEGA,2024,normalized_name_match,True
+理想MEGA,6067,sg28995,28995.0,理想MEGA,2025,normalized_name_match,True
+理想MEGA,6067,sg28995,28995.0,理想MEGA,2026,normalized_name_match,True
+狮铂拓界,6070,sg28996,28996.0,狮铂拓界,2022,normalized_name_match,True
+狮铂拓界,6070,sg28996,28996.0,狮铂拓界,2023,normalized_name_match,True
+狮铂拓界,6070,sg28996,28996.0,狮铂拓界,2024,normalized_name_match,True
+狮铂拓界,6070,sg28996,28996.0,狮铂拓界,2025,normalized_name_match,True
+狮铂拓界,6070,sg28996,28996.0,狮铂拓界,2026,normalized_name_match,True
+吉利几何G6,6080,sg29031,,,2024,unmatched,False
+吉利几何M6,6081,sg29041,,,2022,unmatched,False
+红旗H5,6132,sg29098,29098.0,红旗H5,2022,normalized_name_match,True
+红旗H5,6132,sg29098,29098.0,红旗H5,2023,normalized_name_match,True
+红旗H5,6132,sg29098,29098.0,红旗H5,2024,normalized_name_match,True
+红旗H5,6132,sg29098,29098.0,红旗H5,2025,normalized_name_match,True
+红旗H5,6132,sg29098,29098.0,红旗H5,2026,normalized_name_match,True
+坦克500新能源,sg29113,sg29113,,,2026,unmatched,False
+哈弗大狗PLUS新能源,sg29114,sg29114,,,2026,unmatched,False
+丰田bZ3,6126,sg29117,29117.0,丰田bZ3,2023,normalized_name_match,True
+丰田bZ3,6126,sg29117,29117.0,丰田bZ3,2024,normalized_name_match,True
+丰田bZ3,6126,sg29117,29117.0,丰田bZ3,2025,normalized_name_match,True
+丰田bZ3,6126,sg29117,29117.0,丰田bZ3,2026,normalized_name_match,True
+猛士917,8798,sg29119,29119.0,猛士917,2024,normalized_name_match,True
+猛士917,8798,sg29119,29119.0,猛士917,2025,normalized_name_match,True
+猛士917,8798,sg29119,29119.0,猛士917,2026,normalized_name_match,True
+领地,6044,sg29122,,,2023,unmatched,False
+腾势N7,6360,sg29123,,,2025,unmatched,False
+思皓X8 PLUS,6120,sg29124,,,2022,unmatched,False
+思皓X8 PLUS,6120,sg29124,,,2023,unmatched,False
+锐程PLUS,6147,sg29137,29137.0,锐程PLUS,2022,normalized_name_match,True
+锐程PLUS,6147,sg29137,29137.0,锐程PLUS,2023,normalized_name_match,True
+锐程PLUS,6147,sg29137,29137.0,锐程PLUS,2024,normalized_name_match,True
+锐程PLUS,6147,sg29137,29137.0,锐程PLUS,2025,normalized_name_match,True
+锐程PLUS,6147,sg29137,29137.0,锐程PLUS,2026,normalized_name_match,True
+飞凡F7,6137,sg29146,29146.0,飞凡F7,2023,normalized_name_match,True
+飞凡F7,6137,sg29146,29146.0,飞凡F7,2024,normalized_name_match,True
+飞凡F7,6137,sg29146,29146.0,飞凡F7,2025,normalized_name_match,True
+飞凡F7,6137,sg29146,29146.0,飞凡F7,2026,normalized_name_match,True
+理想L6,5845,sg29159,,,2025,unmatched,False
+理想L7,sg29163,sg29163,,,2025,unmatched,False
+奔驰EQE SUV,6208,sg29206,,,2024,unmatched,False
+奔驰EQE SUV,6208,sg29206,,,2026,unmatched,False
+豪越L,6211,sg29207,29207.0,豪越L,2023,normalized_name_match,True
+豪越L,6211,sg29207,29207.0,豪越L,2024,normalized_name_match,True
+豪越L,6211,sg29207,29207.0,豪越L,2025,normalized_name_match,True
+豪越L,6211,sg29207,29207.0,豪越L,2026,normalized_name_match,True
+红旗H6,5417,sg29214,29214.0,红旗H6,2023,normalized_name_match,True
+红旗H6,5417,sg29214,29214.0,红旗H6,2024,normalized_name_match,True
+红旗H6,5417,sg29214,29214.0,红旗H6,2025,normalized_name_match,True
+红旗H6,5417,sg29214,29214.0,红旗H6,2026,normalized_name_match,True
+哈弗大狗PLUS,6149,sg29215,,,2023,unmatched,False
+哈弗大狗PLUS,6149,sg29215,,,2026,unmatched,False
+逸达,6209,sg29217,,,2023,unmatched,False
+魏牌 蓝山,sg29218,sg29218,,,2025,unmatched,False
+魏牌 蓝山,sg29218,sg29218,,,2026,unmatched,False
+蔚来EC7,6224,sg29226,,,2024,unmatched,False
+易至EV2,5898,sg29235,,,2024,unmatched,False
+易至EV2,5898,sg29235,,,2026,unmatched,False
+世纪,5935,sg29236,29236.0,世纪,2022,normalized_name_match,True
+世纪,5935,sg29236,29236.0,世纪,2023,normalized_name_match,True
+世纪,5935,sg29236,29236.0,世纪,2024,normalized_name_match,True
+世纪,5935,sg29236,29236.0,世纪,2025,normalized_name_match,True
+世纪,5935,sg29236,29236.0,世纪,2026,normalized_name_match,True
+世纪,5935,sg29236,29236.0,世纪,2027,normalized_name_match,True
+奔腾B70,267,sg2924,,,2024,unmatched,False
+奔腾B70,267,sg2924,,,2025,unmatched,False
+奔腾B70,267,sg2924,,,2026,unmatched,False
+风光E380,6230,sg29241,29241.0,风光E380,2022,normalized_name_match,True
+风光E380,6230,sg29241,29241.0,风光E380,2023,normalized_name_match,True
+风光E380,6230,sg29241,29241.0,风光E380,2024,normalized_name_match,True
+风光E380,6230,sg29241,29241.0,风光E380,2025,normalized_name_match,True
+风光E380,6230,sg29241,29241.0,风光E380,2026,normalized_name_match,True
+极氪X,sg29261,sg29261,,,2026,unmatched,False
+仰望U8,6235,sg29274,,,2026,unmatched,False
+长安CS75 PLUS 智电iDD,sg29302,sg29302,,,2023,unmatched,False
+五菱缤果,sg29303,sg29303,,,2025,unmatched,False
+凯迪拉克GT4,5978,sg29304,,,2023,unmatched,False
+风行雷霆,5802,sg29305,,,2023,unmatched,False
+风行雷霆,5802,sg29305,,,2024,unmatched,False
+风行雷霆,5802,sg29305,,,2025,unmatched,False
+极氪007,sg29306,sg29306,,,2025,unmatched,False
+极氪007,sg29306,sg29306,,,2026,unmatched,False
+星海V9,9374,sg29351,29351.0,星海V9,2024,normalized_name_match,True
+星海V9,9374,sg29351,29351.0,星海V9,2025,normalized_name_match,True
+星海V9,9374,sg29351,29351.0,星海V9,2026,normalized_name_match,True
+星海V9,9374,sg29351,29351.0,星海V9,2027,normalized_name_match,True
+昊铂GT,sg29362,sg29362,29362.0,昊铂GT,2023,normalized_name_match,True
+昊铂GT,sg29362,sg29362,29362.0,昊铂GT,2024,normalized_name_match,True
+昊铂GT,sg29362,sg29362,29362.0,昊铂GT,2025,normalized_name_match,True
+昊铂GT,sg29362,sg29362,29362.0,昊铂GT,2026,normalized_name_match,True
+小鹏X9,sg29369,sg29369,29369.0,小鹏X9,2024,normalized_name_match,True
+小鹏X9,sg29369,sg29369,29369.0,小鹏X9,2025,normalized_name_match,True
+小鹏X9,sg29369,sg29369,29369.0,小鹏X9,2026,normalized_name_match,True
+瑞虎9,6227,sg29370,29370.0,瑞虎9,2023,normalized_name_match,True
+瑞虎9,6227,sg29370,29370.0,瑞虎9,2024,normalized_name_match,True
+瑞虎9,6227,sg29370,29370.0,瑞虎9,2025,normalized_name_match,True
+瑞虎9,6227,sg29370,29370.0,瑞虎9,2026,normalized_name_match,True
+瑞虎9,6227,sg29370,29370.0,瑞虎9,2027,normalized_name_match,True
+探索06 C-DM,8974,sg29371,,,2024,unmatched,False
+小鹏G6,sg29372,sg29372,,,2025,unmatched,False
+小鹏G6,sg29372,sg29372,,,2026,unmatched,False
+吉利熊猫,sg29374,sg29374,29374.0,吉利熊猫,2023,normalized_name_match,True
+吉利熊猫,sg29374,sg29374,29374.0,吉利熊猫,2024,normalized_name_match,True
+吉利熊猫,sg29374,sg29374,29374.0,吉利熊猫,2025,normalized_name_match,True
+吉利熊猫,sg29374,sg29374,29374.0,吉利熊猫,2026,normalized_name_match,True
+马自达CX-50行也,6313,sg29377,,,2026,unmatched,False
+启辰大V DD-i,6336,sg29414,,,2023,unmatched,False
+启辰大V DD-i,6336,sg29414,,,2025,unmatched,False
+启辰大V DD-i,6336,sg29414,,,2026,unmatched,False
+启辰VX6,6328,sg29422,,,2025,unmatched,False
+启辰VX6,6328,sg29422,,,2026,unmatched,False
+小米SU7,6187,sg29425,29425.0,小米SU7,2024,normalized_name_match,True
+小米SU7,6187,sg29425,29425.0,小米SU7,2025,normalized_name_match,True
+小米SU7,6187,sg29425,29425.0,小米SU7,2026,normalized_name_match,True
+极狐考拉,sg29431,sg29431,29431.0,极狐考拉,2023,normalized_name_match,True
+极狐考拉,sg29431,sg29431,29431.0,极狐考拉,2024,normalized_name_match,True
+极狐考拉,sg29431,sg29431,29431.0,极狐考拉,2025,normalized_name_match,True
+极狐考拉,sg29431,sg29431,29431.0,极狐考拉,2026,normalized_name_match,True
+极狐 阿尔法T5,6363,sg29434,,,2026,unmatched,False
+iCAR 03,sg29436,sg29436,29436.0,iCAR 03,2023,normalized_name_match,True
+iCAR 03,sg29436,sg29436,29436.0,iCAR 03,2024,normalized_name_match,True
+iCAR 03,sg29436,sg29436,29436.0,iCAR 03,2025,normalized_name_match,True
+领克08,sg29439,sg29439,,,2026,unmatched,False
+雅阁新能源,sg29442,sg29442,,,2026,unmatched,False
+别克E4,sg29443,sg29443,29443.0,别克E4,2023,normalized_name_match,True
+别克E4,sg29443,sg29443,29443.0,别克E4,2024,normalized_name_match,True
+别克E4,sg29443,sg29443,29443.0,别克E4,2025,normalized_name_match,True
+别克E4,sg29443,sg29443,29443.0,别克E4,2026,normalized_name_match,True
+阿维塔 12,8834,sg29447,29447.0,阿维塔12,2023,normalized_name_match,True
+阿维塔 12,8834,sg29447,29447.0,阿维塔12,2024,normalized_name_match,True
+阿维塔 12,8834,sg29447,29447.0,阿维塔12,2025,normalized_name_match,True
+阿维塔 12,8834,sg29447,29447.0,阿维塔12,2026,normalized_name_match,True
+宝骏悦也,sg29461,sg29461,,,2024,unmatched,False
+宝骏悦也,sg29461,sg29461,,,2026,unmatched,False
+红旗HS3,6359,sg29464,29464.0,红旗HS3,2023,normalized_name_match,True
+红旗HS3,6359,sg29464,29464.0,红旗HS3,2024,normalized_name_match,True
+红旗HS3,6359,sg29464,29464.0,红旗HS3,2025,normalized_name_match,True
+红旗HS3,6359,sg29464,29464.0,红旗HS3,2026,normalized_name_match,True
+奔腾T90,8803,sg29465,,,2025,unmatched,False
+奔腾T90,8803,sg29465,,,2026,unmatched,False
+银河L6,8859,sg29476,,,2025,unmatched,False
+银河E8,8858,sg29481,29481.0,银河E8,2024,normalized_name_match,True
+银河E8,8858,sg29481,29481.0,银河E8,2025,normalized_name_match,True
+银河E8,8858,sg29481,29481.0,银河E8,2026,normalized_name_match,True
+银河L7,sg29484,sg29484,,,2023,unmatched,False
+银河L7,sg29484,sg29484,,,2024,unmatched,False
+银河L7,sg29484,sg29484,,,2025,unmatched,False
+银河M9,25521,sg29485,,,2025,unmatched,False
+银河M9,25521,sg29485,,,2026,unmatched,False
+哈弗H5,6321,sg29502,,,2025,unmatched,False
+英仕派新能源,sg29503,sg29503,,,2025,unmatched,False
+皓瀚,8788,sg29512,,,2025,unmatched,False
+皓瀚,8788,sg29512,,,2026,unmatched,False
+星途ES,8965,sg29521,29521.0,星途ES,2023,normalized_name_match,True
+星途ES,8965,sg29521,29521.0,星途ES,2024,normalized_name_match,True
+星途ES,8965,sg29521,29521.0,星途ES,2025,normalized_name_match,True
+星途ES,8965,sg29521,29521.0,星途ES,2026,normalized_name_match,True
+蓝电E5,6204,sg29531,,,2023,unmatched,False
+蓝电E5,6204,sg29531,,,2024,unmatched,False
+曹操60,8930,sg29541,29541.0,曹操60,2023,normalized_name_match,True
+曹操60,8930,sg29541,29541.0,曹操60,2024,normalized_name_match,True
+曹操60,8930,sg29541,29541.0,曹操60,2025,normalized_name_match,True
+曹操60,8930,sg29541,29541.0,曹操60,2026,normalized_name_match,True
+赛图斯,8934,sg29561,29561.0,赛图斯,2023,normalized_name_match,True
+赛图斯,8934,sg29561,29561.0,赛图斯,2024,normalized_name_match,True
+赛图斯,8934,sg29561,29561.0,赛图斯,2025,normalized_name_match,True
+赛图斯,8934,sg29561,29561.0,赛图斯,2026,normalized_name_match,True
+哈弗枭龙,sg29581,sg29581,,,2023,unmatched,False
+海豹07DM-i,sg29582,sg29582,29582.0,海豹07DM-i,2023,normalized_name_match,True
+海豹07DM-i,sg29582,sg29582,29582.0,海豹07DM-i,2024,normalized_name_match,True
+海豹07DM-i,sg29582,sg29582,29582.0,海豹07DM-i,2025,normalized_name_match,True
+海豹07DM-i,sg29582,sg29582,29582.0,海豹07DM-i,2026,normalized_name_match,True
+星纪元ET,8966,sg29591,,,2025,unmatched,False
+瑞风RF8新能源,sg29621,sg29621,29621.0,瑞风RF8新能源,2024,normalized_name_match,True
+瑞风RF8新能源,sg29621,sg29621,29621.0,瑞风RF8新能源,2025,normalized_name_match,True
+瑞风RF8新能源,sg29621,sg29621,29621.0,瑞风RF8新能源,2026,normalized_name_match,True
+ID.7 VIZZION,8946,sg29631,,,2024,unmatched,False
+大家7,sg29642,sg29642,29642.0,大家7,2024,normalized_name_match,True
+大家7,sg29642,sg29642,29642.0,大家7,2025,normalized_name_match,True
+大家7,sg29642,sg29642,29642.0,大家7,2026,normalized_name_match,True
+魏牌 高山,sg29651,sg29651,29651.0,魏牌 高山,2023,normalized_name_match,True
+魏牌 高山,sg29651,sg29651,29651.0,魏牌 高山,2024,normalized_name_match,True
+魏牌 高山,sg29651,sg29651,29651.0,魏牌 高山,2025,normalized_name_match,True
+魏牌 高山,sg29651,sg29651,29651.0,魏牌 高山,2026,normalized_name_match,True
+Polestar 4,5832,sg29652,29652.0,Polestar 4,2025,normalized_name_match,True
+长安启源A07,8958,sg29653,29653.0,长安启源A07,2023,normalized_name_match,True
+长安启源A07,8958,sg29653,29653.0,长安启源A07,2024,normalized_name_match,True
+长安启源A07,8958,sg29653,29653.0,长安启源A07,2025,normalized_name_match,True
+长安启源A07,8958,sg29653,29653.0,长安启源A07,2026,normalized_name_match,True
+坦克400新能源,sg29654,sg29654,,,2026,unmatched,False
+星途瑶光C-DM,8967,sg29655,,,2025,unmatched,False
+星途瑶光C-DM,8967,sg29655,,,2026,unmatched,False
+星途瑶光C-DM,8967,sg29655,,,2027,unmatched,False
+星途揽月C-DM,24925,sg29656,,,2025,unmatched,False
+星途揽月C-DM,24925,sg29656,,,2026,unmatched,False
+宋L EV,8979,sg29661,29661.0,宋L EV,2023,normalized_name_match,True
+宋L EV,8979,sg29661,29661.0,宋L EV,2024,normalized_name_match,True
+宋L EV,8979,sg29661,29661.0,宋L EV,2025,normalized_name_match,True
+宋L EV,8979,sg29661,29661.0,宋L EV,2026,normalized_name_match,True
+红旗EH7,8947,sg29681,29681.0,红旗EH7,2024,normalized_name_match,True
+红旗EH7,8947,sg29681,29681.0,红旗EH7,2025,normalized_name_match,True
+红旗EH7,8947,sg29681,29681.0,红旗EH7,2026,normalized_name_match,True
+沃尔沃EX90,6172,sg29691,,,2027,unmatched,False
+宝马iX1,8942,sg29701,29701.0,宝马iX1,2023,normalized_name_match,True
+宝马iX1,8942,sg29701,29701.0,宝马iX1,2024,normalized_name_match,True
+宝马iX1,8942,sg29701,29701.0,宝马iX1,2025,normalized_name_match,True
+宝马iX1,8942,sg29701,29701.0,宝马iX1,2026,normalized_name_match,True
+瑞虎9 C-DM,8973,sg29702,,,2025,unmatched,False
+瑞虎9 C-DM,8973,sg29702,,,2026,unmatched,False
+风云A8,8808,sg29704,,,2025,unmatched,False
+奔腾小马,8956,sg29713,29713.0,奔腾小马,2024,normalized_name_match,True
+奔腾小马,8956,sg29713,29713.0,奔腾小马,2025,normalized_name_match,True
+奔腾小马,8956,sg29713,29713.0,奔腾小马,2026,normalized_name_match,True
+捷途旅行者C-DM,sg29731,sg29731,,,2024,unmatched,False
+捷途旅行者C-DM,sg29731,sg29731,,,2025,unmatched,False
+捷途旅行者C-DM,sg29731,sg29731,,,2026,unmatched,False
+钇为3,8897,sg29732,29732.0,钇为3,2023,normalized_name_match,True
+钇为3,8897,sg29732,29732.0,钇为3,2024,normalized_name_match,True
+钇为3,8897,sg29732,29732.0,钇为3,2025,normalized_name_match,True
+钇为3,8897,sg29732,29732.0,钇为3,2026,normalized_name_match,True
+问界M9,sg29744,sg29744,,,2026,unmatched,False
+东风风神L7新能源,sg29781,sg29781,,,2025,unmatched,False
+东风风神L7新能源,sg29781,sg29781,,,2026,unmatched,False
+五菱星云,sg29851,sg29851,29851.0,五菱星云,2023,normalized_name_match,True
+五菱星云,sg29851,sg29851,29851.0,五菱星云,2024,normalized_name_match,True
+沃尔沃EX30,9028,sg29901,,,2025,unmatched,False
+沃尔沃EX30,9028,sg29901,,,2026,unmatched,False
+江淮A5 PLUS,sg29951,sg29951,29951.0,江淮A5 PLUS,2023,normalized_name_match,True
+江淮A5 PLUS,sg29951,sg29951,29951.0,江淮A5 PLUS,2024,normalized_name_match,True
+豹5,8884,sg29972,,,2025,unmatched,False
+豹5,8884,sg29972,,,2026,unmatched,False
+智己LS6,9118,sg29991,,,2026,unmatched,False
+极石01,sg29992,sg29992,,,2024,unmatched,False
+长安启源A05,9129,sg29993,,,2025,unmatched,False
+蔚来ET5T,9126,sg29995,29995.0,蔚来ET5T,2023,normalized_name_match,True
+蔚来ET5T,9126,sg29995,29995.0,蔚来ET5T,2024,normalized_name_match,True
+蔚来ET5T,9126,sg29995,29995.0,蔚来ET5T,2025,normalized_name_match,True
+蔚来ET5T,9126,sg29995,29995.0,蔚来ET5T,2026,normalized_name_match,True
+荣威D7,sg30001,sg30001,30001.0,荣威D7,2023,normalized_name_match,True
+荣威D7,sg30001,sg30001,30001.0,荣威D7,2024,normalized_name_match,True
+荣威D7,sg30001,sg30001,30001.0,荣威D7,2025,normalized_name_match,True
+荣威D7,sg30001,sg30001,30001.0,荣威D7,2026,normalized_name_match,True
+长安启源A06,25486,sg30002,,,2026,unmatched,False
+IQ傲歌,9186,sg30049,30049.0,IQ傲歌,2024,normalized_name_match,True
+IQ傲歌,9186,sg30049,30049.0,IQ傲歌,2025,normalized_name_match,True
+IQ傲歌,9186,sg30049,30049.0,IQ傲歌,2026,normalized_name_match,True
+传祺ES9,sg30050,sg30050,,,2024,unmatched,False
+哈弗猛龙新能源,sg30055,sg30055,,,2026,unmatched,False
+大通G70,9188,sg30056,30056.0,大通G70,2024,normalized_name_match,True
+大通G70,9188,sg30056,30056.0,大通G70,2025,normalized_name_match,True
+大通G70,9188,sg30056,30056.0,大通G70,2026,normalized_name_match,True
+传祺E8新能源,sg30061,sg30061,30061.0,传祺E8新能源,2023,normalized_name_match,True
+传祺E8新能源,sg30061,sg30061,30061.0,传祺E8新能源,2024,normalized_name_match,True
+传祺E8新能源,sg30061,sg30061,30061.0,传祺E8新能源,2025,normalized_name_match,True
+传祺E8新能源,sg30061,sg30061,30061.0,传祺E8新能源,2026,normalized_name_match,True
+宝马i5,9224,sg30081,30081.0,宝马i5,2024,normalized_name_match,True
+宝马i5,9224,sg30081,30081.0,宝马i5,2025,normalized_name_match,True
+宝马i5,9224,sg30081,30081.0,宝马i5,2026,normalized_name_match,True
+起亚EV5,9237,sg30091,30091.0,起亚EV5,2023,normalized_name_match,True
+起亚EV5,9237,sg30091,30091.0,起亚EV5,2024,normalized_name_match,True
+起亚EV5,9237,sg30091,30091.0,起亚EV5,2025,normalized_name_match,True
+起亚EV5,9237,sg30091,30091.0,起亚EV5,2026,normalized_name_match,True
+长安启源Q05经典,sg30092,sg30092,30092.0,长安启源Q05经典,2023,normalized_name_match,True
+长安启源Q05经典,sg30092,sg30092,30092.0,长安启源Q05经典,2024,normalized_name_match,True
+长安启源Q05经典,sg30092,sg30092,30092.0,长安启源Q05经典,2025,normalized_name_match,True
+五菱星光,sg30093,sg30093,30093.0,五菱星光,2023,normalized_name_match,True
+五菱星光,sg30093,sg30093,30093.0,五菱星光,2024,normalized_name_match,True
+五菱星光,sg30093,sg30093,30093.0,五菱星光,2025,normalized_name_match,True
+五菱星光,sg30093,sg30093,30093.0,五菱星光,2026,normalized_name_match,True
+极狐 阿尔法S5,9179,sg30094,30094.0,极狐 阿尔法S5,2024,normalized_name_match,True
+极狐 阿尔法S5,9179,sg30094,30094.0,极狐 阿尔法S5,2025,normalized_name_match,True
+极狐 阿尔法S5,9179,sg30094,30094.0,极狐 阿尔法S5,2026,normalized_name_match,True
+钛3,9249,sg30095,,,2025,unmatched,False
+钛3,9249,sg30095,,,2026,unmatched,False
+豹8,9246,sg30101,,,2026,unmatched,False
+零跑C10,9307,sg30113,,,2026,unmatched,False
+零跑C10,9307,sg30113,,,2027,unmatched,False
+江淮QX PHEV,sg30117,sg30117,30117.0,江淮QX PHEV,2023,normalized_name_match,True
+江淮QX PHEV,sg30117,sg30117,30117.0,江淮QX PHEV,2024,normalized_name_match,True
+江淮QX PHEV,sg30117,sg30117,30117.0,江淮QX PHEV,2025,normalized_name_match,True
+江淮QX PHEV,sg30117,sg30117,30117.0,江淮QX PHEV,2026,normalized_name_match,True
+福特烈马,9350,sg30118,,,2024,unmatched,False
+福特烈马,9350,sg30118,,,2025,unmatched,False
+福特烈马,9350,sg30118,,,2026,unmatched,False
+探界者Plus,9693,sg30119,,,2024,unmatched,False
+纳米01,sg30120,sg30120,30120.0,纳米01,2024,normalized_name_match,True
+纳米01,sg30120,sg30120,30120.0,纳米01,2025,normalized_name_match,True
+纳米01,sg30120,sg30120,30120.0,纳米01,2026,normalized_name_match,True
+荣威D5X DMH,9347,sg30129,30129.0,荣威D5X DMH,2024,normalized_name_match,True
+荣威D5X DMH,9347,sg30129,30129.0,荣威D5X DMH,2025,normalized_name_match,True
+荣威D5X DMH,9347,sg30129,30129.0,荣威D5X DMH,2026,normalized_name_match,True
+PATHFINDER探陆,sg30130,sg30130,30130.0,PATHFINDER探陆,2024,normalized_name_match,True
+PATHFINDER探陆,sg30130,sg30130,30130.0,PATHFINDER探陆,2025,normalized_name_match,True
+PATHFINDER探陆,sg30130,sg30130,30130.0,PATHFINDER探陆,2026,normalized_name_match,True
+昊铂HT,sg30131,sg30131,,,2025,unmatched,False
+小鹏MONA M03,sg30174,sg30174,30174.0,小鹏MONA M03,2024,normalized_name_match,True
+小鹏MONA M03,sg30174,sg30174,30174.0,小鹏MONA M03,2025,normalized_name_match,True
+小鹏MONA M03,sg30174,sg30174,30174.0,小鹏MONA M03,2026,normalized_name_match,True
+江淮X8 PLUS,sg30195,sg30195,,,2024,unmatched,False
+沃尔沃EM90,9262,sg30196,30196.0,沃尔沃EM90,2024,normalized_name_match,True
+沃尔沃EM90,9262,sg30196,30196.0,沃尔沃EM90,2025,normalized_name_match,True
+沃尔沃EM90,9262,sg30196,30196.0,沃尔沃EM90,2026,normalized_name_match,True
+沃尔沃EM90,9262,sg30196,30196.0,沃尔沃EM90,2027,normalized_name_match,True
+星瑞L,sg30198,sg30198,30198.0,星瑞L,2023,normalized_name_match,True
+星瑞L,sg30198,sg30198,30198.0,星瑞L,2024,normalized_name_match,True
+星瑞L,sg30198,sg30198,30198.0,星瑞L,2025,normalized_name_match,True
+星瑞L,sg30198,sg30198,30198.0,星瑞L,2026,normalized_name_match,True
+灵悉L,9428,sg30202,30202.0,灵悉L,2024,normalized_name_match,True
+灵悉L,9428,sg30202,30202.0,灵悉L,2025,normalized_name_match,True
+灵悉L,9428,sg30202,30202.0,灵悉L,2026,normalized_name_match,True
+星越L 智擎,sg30206,sg30206,30206.0,星越L 智擎,2024,normalized_name_match,True
+星越L 智擎,sg30206,sg30206,30206.0,星越L 智擎,2025,normalized_name_match,True
+星越L 智擎,sg30206,sg30206,30206.0,星越L 智擎,2026,normalized_name_match,True
+eπ007,sg30207,sg30207,30207.0,eπ007,2024,normalized_name_match,True
+eπ007,sg30207,sg30207,30207.0,eπ007,2025,normalized_name_match,True
+eπ007,sg30207,sg30207,30207.0,eπ007,2026,normalized_name_match,True
+风云A9L,8985,sg30262,30262.0,风云A9L,2025,normalized_name_match,True
+风云A9L,8985,sg30262,30262.0,风云A9L,2026,normalized_name_match,True
+瑞风RF8,8950,sg30267,30267.0,瑞风RF8,2024,normalized_name_match,True
+瑞风RF8,8950,sg30267,30267.0,瑞风RF8,2025,normalized_name_match,True
+瑞风RF8,8950,sg30267,30267.0,瑞风RF8,2026,normalized_name_match,True
+风云T11,9436,sg30271,,,2026,unmatched,False
+海狮07EV,6068,sg30273,30273.0,海狮07EV,2024,normalized_name_match,True
+海狮07EV,6068,sg30273,30273.0,海狮07EV,2025,normalized_name_match,True
+海狮07EV,6068,sg30273,30273.0,海狮07EV,2026,normalized_name_match,True
+元UP,9689,sg30301,30301.0,元UP,2024,normalized_name_match,True
+元UP,9689,sg30301,30301.0,元UP,2025,normalized_name_match,True
+元UP,9689,sg30301,30301.0,元UP,2026,normalized_name_match,True
+铂智4X,9668,sg30302,30302.0,铂智4X,2023,normalized_name_match,True
+铂智4X,9668,sg30302,30302.0,铂智4X,2024,normalized_name_match,True
+铂智4X,9668,sg30302,30302.0,铂智4X,2025,normalized_name_match,True
+铂智4X,9668,sg30302,30302.0,铂智4X,2026,normalized_name_match,True
+蔚来ET9,9707,sg30321,30321.0,蔚来ET9,2025,normalized_name_match,True
+蔚来ET9,9707,sg30321,30321.0,蔚来ET9,2026,normalized_name_match,True
+长安X5 PLUS,9683,sg30322,30322.0,长安X5 PLUS,2025,normalized_name_match,True
+长安X5 PLUS,9683,sg30322,30322.0,长安X5 PLUS,2026,normalized_name_match,True
+长安X7 PLUS,9684,sg30323,,,2024,unmatched,False
+深蓝G318,9211,sg30345,,,2025,unmatched,False
+深蓝G318,9211,sg30345,,,2026,unmatched,False
+爱跑,9792,sg30346,30346.0,爱跑,2024,normalized_name_match,True
+爱跑,9792,sg30346,30346.0,爱跑,2025,normalized_name_match,True
+爱跑,9792,sg30346,30346.0,爱跑,2026,normalized_name_match,True
+电动MINI COOPER,9793,sg30347,30347.0,电动MINI COOPER,2025,normalized_name_match,True
+电动MINI COOPER,9793,sg30347,30347.0,电动MINI COOPER,2026,normalized_name_match,True
+五菱缤果PLUS,sg30353,sg30353,,,2024,unmatched,False
+宝骏悦也Plus,sg30354,sg30354,,,2026,unmatched,False
+红旗天工08,8835,sg30355,30355.0,红旗天工08,2024,normalized_name_match,True
+红旗天工08,8835,sg30355,30355.0,红旗天工08,2025,normalized_name_match,True
+红旗天工08,8835,sg30355,30355.0,红旗天工08,2026,normalized_name_match,True
+智己L6,9660,sg30356,30356.0,智己L6,2024,normalized_name_match,True
+智己L6,9660,sg30356,30356.0,智己L6,2025,normalized_name_match,True
+智己L6,9660,sg30356,30356.0,智己L6,2026,normalized_name_match,True
+长安启源E07,9642,sg30357,,,2025,unmatched,False
+领克07,sg30358,sg30358,30358.0,领克07,2024,normalized_name_match,True
+领克07,sg30358,sg30358,30358.0,领克07,2025,normalized_name_match,True
+领克07,sg30358,sg30358,30358.0,领克07,2026,normalized_name_match,True
+秦L,sg30359,sg30359,30359.0,秦L,2024,normalized_name_match,True
+秦L,sg30359,sg30359,30359.0,秦L,2025,normalized_name_match,True
+秦L,sg30359,sg30359,30359.0,秦L,2026,normalized_name_match,True
+长安UNI-Z新能源,sg30365,sg30365,30365.0,长安UNI-Z新能源,2024,normalized_name_match,True
+长安UNI-Z新能源,sg30365,sg30365,30365.0,长安UNI-Z新能源,2025,normalized_name_match,True
+长安UNI-Z新能源,sg30365,sg30365,30365.0,长安UNI-Z新能源,2026,normalized_name_match,True
+风云T9,9500,sg30366,,,2025,unmatched,False
+风云T9,9500,sg30366,,,2026,unmatched,False
+eπ008,sg30367,sg30367,,,2026,unmatched,False
+小鹏P7+,sg30372,sg30372,30372.0,小鹏P7+,2024,normalized_name_match,True
+小鹏P7+,sg30372,sg30372,30372.0,小鹏P7+,2025,normalized_name_match,True
+小鹏P7+,sg30372,sg30372,30372.0,小鹏P7+,2026,normalized_name_match,True
+红旗HS7 PHEV,9825,sg30373,30373.0,红旗HS7 PHEV,2024,normalized_name_match,True
+红旗HS7 PHEV,9825,sg30373,30373.0,红旗HS7 PHEV,2025,normalized_name_match,True
+红旗HS7 PHEV,9825,sg30373,30373.0,红旗HS7 PHEV,2026,normalized_name_match,True
+海豹06DM-i,sg30374,sg30374,30374.0,海豹06DM-i,2024,normalized_name_match,True
+海豹06DM-i,sg30374,sg30374,30374.0,海豹06DM-i,2025,normalized_name_match,True
+海豹06DM-i,sg30374,sg30374,30374.0,海豹06DM-i,2026,normalized_name_match,True
+风云T10,9950,sg30386,,,2024,unmatched,False
+风云T10,9950,sg30386,,,2025,unmatched,False
+电动MINI ACEMAN,9945,sg30388,30388.0,电动MINI ACEMAN,2024,normalized_name_match,True
+电动MINI ACEMAN,9945,sg30388,30388.0,电动MINI ACEMAN,2025,normalized_name_match,True
+知豆彩虹,9794,sg30391,,,2025,unmatched,False
+星海S7,9958,sg30393,30393.0,星海S7,2024,normalized_name_match,True
+星海S7,9958,sg30393,30393.0,星海S7,2025,normalized_name_match,True
+星海S7,9958,sg30393,30393.0,星海S7,2026,normalized_name_match,True
+银河E5,10026,sg30411,,,2024,unmatched,False
+银河E5,10026,sg30411,,,2026,unmatched,False
+iCAR超级V23,10040,sg30412,,,2025,unmatched,False
+iCAR超级V23,10040,sg30412,,,2026,unmatched,False
+别克GL8新能源,sg30413,sg30413,30413.0,别克GL8新能源,2024,normalized_name_match,True
+别克GL8新能源,sg30413,sg30413,30413.0,别克GL8新能源,2025,normalized_name_match,True
+别克GL8新能源,sg30413,sg30413,30413.0,别克GL8新能源,2026,normalized_name_match,True
+索奈,9494,sg30415,,,2024,unmatched,False
+零跑C16,10125,sg30422,,,2026,unmatched,False
+零跑C16,10125,sg30422,,,2027,unmatched,False
+广汽本田P7,10127,sg30423,30423.0,广汽本田P7,2025,normalized_name_match,True
+广汽本田P7,10127,sg30423,30423.0,广汽本田P7,2026,normalized_name_match,True
+东风本田S7,10128,sg30424,30424.0,东风本田S7,2025,normalized_name_match,True
+东风本田S7,10128,sg30424,30424.0,东风本田S7,2026,normalized_name_match,True
+奥迪Q6L e-tron,9440,sg30431,30431.0,奥迪Q6L e-tron,2025,normalized_name_match,True
+奥迪Q6L e-tron,9440,sg30431,30431.0,奥迪Q6L e-tron,2026,normalized_name_match,True
+smart精灵#5,10136,sg30432,,,2024,unmatched,False
+smart精灵#5,10136,sg30432,,,2025,unmatched,False
+海豹06GT,10205,sg30439,30439.0,海豹06GT,2024,normalized_name_match,True
+海豹06GT,10205,sg30439,30439.0,海豹06GT,2025,normalized_name_match,True
+海豹06GT,10205,sg30439,30439.0,海豹06GT,2026,normalized_name_match,True
+马自达EZ-6,10137,sg30443,30443.0,马自达EZ-6,2024,normalized_name_match,True
+马自达EZ-6,10137,sg30443,30443.0,马自达EZ-6,2025,normalized_name_match,True
+马自达EZ-6,10137,sg30443,30443.0,马自达EZ-6,2026,normalized_name_match,True
+红旗天工05,10154,sg30453,30453.0,红旗天工05,2025,normalized_name_match,True
+红旗天工05,10154,sg30453,30453.0,红旗天工05,2026,normalized_name_match,True
+铂智3X,8987,sg30454,30454.0,铂智3X,2025,normalized_name_match,True
+铂智3X,8987,sg30454,30454.0,铂智3X,2026,normalized_name_match,True
+丰田bZ5,25314,sg30455,30455.0,丰田bZ5,2025,normalized_name_match,True
+丰田bZ5,25314,sg30455,30455.0,丰田bZ5,2026,normalized_name_match,True
+红旗天工06,10162,sg30459,30459.0,红旗天工06,2025,normalized_name_match,True
+红旗天工06,10162,sg30459,30459.0,红旗天工06,2026,normalized_name_match,True
+马自达EZ-60,25345,sg30460,,,2025,unmatched,False
+马自达EZ-60,25345,sg30460,,,2026,unmatched,False
+阿维塔 07,10033,sg30462,,,2024,unmatched,False
+阿维塔 07,10033,sg30462,,,2026,unmatched,False
+深蓝L07,10214,sg30463,30463.0,深蓝L07,2024,normalized_name_match,True
+深蓝L07,10214,sg30463,30463.0,深蓝L07,2025,normalized_name_match,True
+深蓝L07,10214,sg30463,30463.0,深蓝L07,2026,normalized_name_match,True
+乐道L60,9833,sg30472,,,2025,unmatched,False
+乐道L60,9833,sg30472,,,2026,unmatched,False
+深蓝S05,10213,sg30474,,,2026,unmatched,False
+岚图知音,sg30475,sg30475,,,2025,unmatched,False
+瑞虎8L,20032,sg30512,,,2024,unmatched,False
+瑞虎8L,20032,sg30512,,,2025,unmatched,False
+小米YU7,20041,sg30518,,,2025,unmatched,False
+小米YU7,20041,sg30518,,,2026,unmatched,False
+红旗HS3 PHEV,10120,sg30537,30537.0,红旗HS3 PHEV,2024,normalized_name_match,True
+红旗HS3 PHEV,10120,sg30537,30537.0,红旗HS3 PHEV,2025,normalized_name_match,True
+红旗HS3 PHEV,10120,sg30537,30537.0,红旗HS3 PHEV,2026,normalized_name_match,True
+领克Z20,24535,sg30539,,,2025,unmatched,False
+领克Z20,24535,sg30539,,,2026,unmatched,False
+宝马2系,24609,sg30547,30547.0,宝马2系,2025,normalized_name_match,True
+宝马2系,24609,sg30547,30547.0,宝马2系,2026,normalized_name_match,True
+捷途自由者,24612,sg30555,,,2025,unmatched,False
+捷途自由者,24612,sg30555,,,2026,unmatched,False
+蓝电E5 PLUS,24659,sg30561,,,2025,unmatched,False
+蓝电E5 PLUS,24659,sg30561,,,2026,unmatched,False
+高尔夫GTI,24727,sg30566,30566.0,高尔夫GTI,2025,normalized_name_match,True
+高尔夫GTI,24727,sg30566,30566.0,高尔夫GTI,2026,normalized_name_match,True
+江淮X8 E家,sg30567,sg30567,,,2024,unmatched,False
+江淮X8 E家,sg30567,sg30567,,,2025,unmatched,False
+领途E-M8,sg30568,sg30568,,,2025,unmatched,False
+夏,24597,sg30571,30571.0,夏,2025,normalized_name_match,True
+夏,24597,sg30571,30571.0,夏,2026,normalized_name_match,True
+零跑B10,9268,sg30594,,,2025,unmatched,False
+奥迪A5L Sportback,24944,sg30599,30599.0,奥迪A5L Sportback,2025,normalized_name_match,True
+奥迪A5L Sportback,24944,sg30599,30599.0,奥迪A5L Sportback,2026,normalized_name_match,True
+瑞虎8 PLUS C-DM,24756,sg30603,,,2025,unmatched,False
+AION RT,24800,sg30604,30604.0,AION RT,2024,normalized_name_match,True
+AION RT,24800,sg30604,30604.0,AION RT,2025,normalized_name_match,True
+AION RT,24800,sg30604,30604.0,AION RT,2026,normalized_name_match,True
+风云T8,24934,sg30623,,,2025,unmatched,False
+长安欧尚520,24932,sg30626,30626.0,长安欧尚520,2025,normalized_name_match,True
+长安欧尚520,24932,sg30626,30626.0,长安欧尚520,2026,normalized_name_match,True
+悦意03,24919,sg30627,30627.0,悦意03,2025,normalized_name_match,True
+悦意03,24919,sg30627,30627.0,悦意03,2026,normalized_name_match,True
+睿蓝8,24939,sg30631,30631.0,睿蓝8,2024,normalized_name_match,True
+睿蓝8,24939,sg30631,30631.0,睿蓝8,2025,normalized_name_match,True
+睿蓝8,24939,sg30631,30631.0,睿蓝8,2026,normalized_name_match,True
+奥迪A5L,24521,sg30632,30632.0,奥迪A5L,2025,normalized_name_match,True
+奥迪A5L,24521,sg30632,30632.0,奥迪A5L,2026,normalized_name_match,True
+AION UT,25014,sg30636,30636.0,AION UT,2025,normalized_name_match,True
+AION UT,25014,sg30636,30636.0,AION UT,2026,normalized_name_match,True
+捷达VA7,24893,sg30642,30642.0,捷达VA7,2024,normalized_name_match,True
+捷达VA7,24893,sg30642,30642.0,捷达VA7,2025,normalized_name_match,True
+捷达VA7,24893,sg30642,30642.0,捷达VA7,2026,normalized_name_match,True
+奥迪Q6L Sportback e-tron,25079,sg30652,30652.0,奥迪Q6L Sportback e-tron,2025,normalized_name_match,True
+奥迪Q6L Sportback e-tron,25079,sg30652,30652.0,奥迪Q6L Sportback e-tron,2026,normalized_name_match,True
+日产N7,25094,sg30655,30655.0,日产N7,2025,normalized_name_match,True
+日产N7,25094,sg30655,30655.0,日产N7,2026,normalized_name_match,True
+奥迪E5 Sportback,25058,sg30661,30661.0,奥迪E5 Sportback,2025,normalized_name_match,True
+奥迪E5 Sportback,25058,sg30661,30661.0,奥迪E5 Sportback,2026,normalized_name_match,True
+传祺向往S7,25071,sg30662,,,2025,unmatched,False
+铂智7,9657,sg30672,30672.0,铂智7,2026,normalized_name_match,True
+firefly萤火虫,25116,sg30673,30673.0,firefly萤火虫,2025,normalized_name_match,True
+firefly萤火虫,25116,sg30673,30673.0,firefly萤火虫,2026,normalized_name_match,True
+帕拉丁,9181,sg307,,,2023,unmatched,False
+帕拉丁,9181,sg307,,,2024,unmatched,False
+帕拉丁,9181,sg307,,,2025,unmatched,False
+帕拉丁,9181,sg307,,,2026,unmatched,False
+阿维塔 06,10230,sg30703,30703.0,阿维塔06,2025,normalized_name_match,True
+阿维塔 06,10230,sg30703,30703.0,阿维塔06,2026,normalized_name_match,True
+海狮05EV,25139,sg30704,30704.0,海狮05EV,2025,normalized_name_match,True
+海狮05EV,25139,sg30704,30704.0,海狮05EV,2026,normalized_name_match,True
+悦意07,25138,sg30706,30706.0,悦意07,2025,normalized_name_match,True
+悦意07,25138,sg30706,30706.0,悦意07,2026,normalized_name_match,True
+小鹏G7,sg30708,sg30708,,,2025,unmatched,False
+小鹏G7,sg30708,sg30708,,,2026,unmatched,False
+长安启源Q07,25132,sg30714,,,2025,unmatched,False
+深蓝S09,25136,sg30715,,,2025,unmatched,False
+深蓝S09,25136,sg30715,,,2026,unmatched,False
+荣威D6,25140,sg30716,30716.0,荣威D6,2025,normalized_name_match,True
+荣威D6,25140,sg30716,30716.0,荣威D6,2026,normalized_name_match,True
+领途M8,sg30717,sg30717,,,2025,unmatched,False
+海马INJOY,sg30727,sg30727,30727.0,海马INJOY,2024,normalized_name_match,True
+海马INJOY,sg30727,sg30727,30727.0,海马INJOY,2025,normalized_name_match,True
+比亚迪e7,25188,sg30728,30728.0,比亚迪e7,2025,normalized_name_match,True
+比亚迪e7,25188,sg30728,30728.0,比亚迪e7,2026,normalized_name_match,True
+领克900,25161,sg30732,,,2025,unmatched,False
+领克900,25161,sg30732,,,2026,unmatched,False
+羿驰05,25194,sg30741,30741.0,羿驰05,2025,normalized_name_match,True
+羿驰05,25194,sg30741,30741.0,羿驰05,2026,normalized_name_match,True
+纵横G700,25211,sg30751,,,2025,unmatched,False
+纵横G700,25211,sg30751,,,2026,unmatched,False
+海豹06EV,25238,sg30794,30794.0,海豹06EV,2025,normalized_name_match,True
+海豹06EV,25238,sg30794,30794.0,海豹06EV,2026,normalized_name_match,True
+乐道L90,25234,sg30806,,,2025,unmatched,False
+乐道L90,25234,sg30806,,,2026,unmatched,False
+理想i8,10178,sg30807,,,2025,unmatched,False
+示界06,25239,sg30808,,,2025,unmatched,False
+传祺向往S9,25288,sg30809,,,2025,unmatched,False
+零跑B01,9266,sg30816,30816.0,零跑B01,2025,normalized_name_match,True
+零跑B01,9266,sg30816,30816.0,零跑B01,2026,normalized_name_match,True
+捷途X90 C-DM,25349,sg30824,,,2025,unmatched,False
+ID. ERA 9X,25395,sg30835,30835.0,ID.ERA 9X,2026,normalized_name_match,True
+海狮06EV,25400,sg30836,30836.0,海狮06EV,2025,normalized_name_match,True
+海狮06EV,25400,sg30836,30836.0,海狮06EV,2026,normalized_name_match,True
+极狐 贝塔T1,25401,sg30841,30841.0,极狐贝塔T1,2025,normalized_name_match,True
+极狐 贝塔T1,25401,sg30841,30841.0,极狐贝塔T1,2026,normalized_name_match,True
+仰望U8L,25717,sg30845,,,2026,unmatched,False
+猛士M817,25412,sg30858,,,2025,unmatched,False
+猛士M817,25412,sg30858,,,2026,unmatched,False
+日产N6,25636,sg30862,30862.0,日产N6,2025,normalized_name_match,True
+日产N6,25636,sg30862,30862.0,日产N6,2026,normalized_name_match,True
+EO 羿欧,25427,sg30870,30870.0,EO 羿欧,2025,normalized_name_match,True
+EO 羿欧,25427,sg30870,30870.0,EO 羿欧,2026,normalized_name_match,True
+iCAR V27,25620,sg30886,,,2026,unmatched,False
+捷达VS8,9264,sg30896,,,2026,unmatched,False
+领克10,26030,sg30905,30905.0,领克10,2025,normalized_name_match,True
+领克10,26030,sg30905,30905.0,领克10,2026,normalized_name_match,True
+小鹏GX,sg30908,sg30908,,,2026,unmatched,False
+比亚迪M9,25579,sg30914,30914.0,比亚迪M9,2025,normalized_name_match,True
+比亚迪M9,25579,sg30914,30914.0,比亚迪M9,2026,normalized_name_match,True
+理想i6,25557,sg30915,,,2025,unmatched,False
+极狐 贝塔S3,25573,sg30917,30917.0,极狐贝塔S3,2026,normalized_name_match,True
+智己LS9,25607,sg30924,,,2026,unmatched,False
+福特智趣烈马,25603,sg30925,,,2026,unmatched,False
+羿驰05S,25612,sg30927,,,2026,unmatched,False
+星途ET5,25601,sg30934,,,2026,unmatched,False
+银河星耀6,25611,sg30935,30935.0,银河星耀6,2025,normalized_name_match,True
+银河星耀6,25611,sg30935,30935.0,银河星耀6,2026,normalized_name_match,True
+风云X3L,25545,sg30937,,,2025,unmatched,False
+风云X3L,25545,sg30937,,,2026,unmatched,False
+深蓝L06,25628,sg30944,30944.0,深蓝L06,2025,normalized_name_match,True
+深蓝L06,25628,sg30944,30944.0,深蓝L06,2026,normalized_name_match,True
+AION i60,25643,sg30956,,,2026,unmatched,False
+零跑Lafa5,25682,sg30983,30983.0,零跑Lafa5,2025,normalized_name_match,True
+零跑Lafa5,25682,sg30983,30983.0,零跑Lafa5,2026,normalized_name_match,True
+埃尚,25720,sg30990,30990.0,埃尚,2026,normalized_name_match,True
+零跑D19,25718,sg31006,,,2026,unmatched,False
+红旗HS6 PHEV,25598,sg31007,,,2026,unmatched,False
+银河星耀7,25739,sg31010,31010.0,银河星耀7,2026,normalized_name_match,True
+长安启源Q05,25634,sg31012,,,2026,unmatched,False
+岚图追光L,sg31015,sg31015,31015.0,岚图追光L,2026,normalized_name_match,True
+零跑A10,9267,sg31064,,,2026,unmatched,False
+星途EX7,25816,sg31081,,,2026,unmatched,False
+风云T9L,25828,sg31083,,,2026,unmatched,False
+极狐 问道V9,25830,sg31087,31087.0,极狐问道V9,2026,normalized_name_match,True
+银河V900,25711,sg31093,31093.0,银河V900,2025,normalized_name_match,True
+银河V900,25711,sg31093,31093.0,银河V900,2026,normalized_name_match,True
+奥迪E7X,25846,sg31098,,,2026,unmatched,False
+AION N60,25878,sg31115,,,2026,unmatched,False
+智己LS8,25877,sg31117,,,2026,unmatched,False
+日产NX8,25874,sg31118,31118.0,日产NX8,2026,normalized_name_match,True
+银河M7,25871,sg31119,,,2026,unmatched,False
+海豹07EV,24588,sg31123,31123.0,海豹07EV,2026,normalized_name_match,True
+凯威德,25882,sg31132,31132.0,凯威德,2026,normalized_name_match,True
+星海T5,25831,sg31151,31151.0,星海T5,2025,normalized_name_match,True
+星海T5,25831,sg31151,31151.0,星海T5,2026,normalized_name_match,True
+蔚来ES9,25904,sg31154,,,2026,unmatched,False
+博越REV,25577,sg31178,31178.0,博越REV,2026,normalized_name_match,True
+沃尔沃ES90,25226,sg31183,31183.0,沃尔沃ES90,2026,normalized_name_match,True
+沃尔沃ES90,25226,sg31183,31183.0,沃尔沃ES90,2027,normalized_name_match,True
+逍客,1150,sg3127,3127.0,逍客,2022,normalized_name_match,True
+逍客,1150,sg3127,3127.0,逍客,2023,normalized_name_match,True
+逍客,1150,sg3127,3127.0,逍客,2024,normalized_name_match,True
+逍客,1150,sg3127,3127.0,逍客,2025,normalized_name_match,True
+逍客,1150,sg3127,3127.0,逍客,2026,normalized_name_match,True
+乐道L80,25565,sg31275,,,2026,unmatched,False
+威驰,sg3163,sg3163,,,2022,unmatched,False
+奔驰C级,212,sg3178,3178.0,奔驰C级,2022,normalized_name_match,True
+奔驰C级,212,sg3178,3178.0,奔驰C级,2023,normalized_name_match,True
+奔驰C级,212,sg3178,3178.0,奔驰C级,2024,normalized_name_match,True
+奔驰C级,212,sg3178,3178.0,奔驰C级,2025,normalized_name_match,True
+奔驰C级,212,sg3178,3178.0,奔驰C级,2026,normalized_name_match,True
+天籁,1147,sg3195,3195.0,天籁,2022,normalized_name_match,True
+天籁,1147,sg3195,3195.0,天籁,2023,normalized_name_match,True
+天籁,1147,sg3195,3195.0,天籁,2024,normalized_name_match,True
+天籁,1147,sg3195,3195.0,天籁,2025,normalized_name_match,True
+天籁,1147,sg3195,3195.0,天籁,2026,normalized_name_match,True
+飞度,sg3224,sg3224,,,2026,unmatched,False
+朗逸,393,sg3225,3225.0,朗逸,2022,normalized_name_match,True
+朗逸,393,sg3225,3225.0,朗逸,2023,normalized_name_match,True
+朗逸,393,sg3225,3225.0,朗逸,2024,normalized_name_match,True
+朗逸,393,sg3225,3225.0,朗逸,2025,normalized_name_match,True
+朗逸,393,sg3225,3225.0,朗逸,2026,normalized_name_match,True
+宝来,409,sg3286,3286.0,宝来,2022,normalized_name_match,True
+宝来,409,sg3286,3286.0,宝来,2023,normalized_name_match,True
+宝来,409,sg3286,3286.0,宝来,2024,normalized_name_match,True
+宝来,409,sg3286,3286.0,宝来,2025,normalized_name_match,True
+宝来,409,sg3286,3286.0,宝来,2026,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2021,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2022,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2023,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2024,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2025,normalized_name_match,True
+奇骏,1151,sg3384,3384.0,奇骏,2026,normalized_name_match,True
+福克斯,sg3404,sg3404,,,2022,unmatched,False
+奥迪A4L,96,sg3524,3524.0,奥迪A4L,2022,normalized_name_match,True
+奥迪A4L,96,sg3524,3524.0,奥迪A4L,2023,normalized_name_match,True
+奥迪A4L,96,sg3524,3524.0,奥迪A4L,2024,normalized_name_match,True
+奥迪A4L,96,sg3524,3524.0,奥迪A4L,2025,normalized_name_match,True
+奥迪A4L,96,sg3524,3524.0,奥迪A4L,2026,normalized_name_match,True
+君威,348,sg3543,3543.0,君威,2022,normalized_name_match,True
+君威,348,sg3543,3543.0,君威,2023,normalized_name_match,True
+君威,348,sg3543,3543.0,君威,2024,normalized_name_match,True
+君威,348,sg3543,3543.0,君威,2025,normalized_name_match,True
+君威,348,sg3543,3543.0,君威,2026,normalized_name_match,True
+奥德赛,291,sg3565,3565.0,奥德赛,2022,normalized_name_match,True
+奥德赛,291,sg3565,3565.0,奥德赛,2023,normalized_name_match,True
+奥德赛,291,sg3565,3565.0,奥德赛,2024,normalized_name_match,True
+奥德赛,291,sg3565,3565.0,奥德赛,2025,normalized_name_match,True
+奥德赛,291,sg3565,3565.0,奥德赛,2026,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2021,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2022,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2023,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2024,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2025,normalized_name_match,True
+MG6,sg3686,sg3686,3686.0,MG6,2026,normalized_name_match,True
+RAV4荣放,546,sg3715,3715.0,RAV4荣放,2022,normalized_name_match,True
+RAV4荣放,546,sg3715,3715.0,RAV4荣放,2023,normalized_name_match,True
+RAV4荣放,546,sg3715,3715.0,RAV4荣放,2024,normalized_name_match,True
+RAV4荣放,546,sg3715,3715.0,RAV4荣放,2025,normalized_name_match,True
+RAV4荣放,546,sg3715,3715.0,RAV4荣放,2026,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2019,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2022,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2023,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2024,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2025,normalized_name_match,True
+福瑞迪,sg3734,sg3734,3734.0,福瑞迪,2026,normalized_name_match,True
+君越,347,sg3745,3745.0,君越,2022,normalized_name_match,True
+君越,347,sg3745,3745.0,君越,2023,normalized_name_match,True
+君越,347,sg3745,3745.0,君越,2024,normalized_name_match,True
+君越,347,sg3745,3745.0,君越,2025,normalized_name_match,True
+君越,347,sg3745,3745.0,君越,2026,normalized_name_match,True
+比亚迪e6,sg3755,sg3755,,,2017,unmatched,False
+汉兰达,536,sg3836,,,2026,unmatched,False
+轩逸,1145,sg3996,3996.0,轩逸,2022,normalized_name_match,True
+轩逸,1145,sg3996,3996.0,轩逸,2023,normalized_name_match,True
+轩逸,1145,sg3996,3996.0,轩逸,2024,normalized_name_match,True
+轩逸,1145,sg3996,3996.0,轩逸,2025,normalized_name_match,True
+轩逸,1145,sg3996,3996.0,轩逸,2026,normalized_name_match,True
+普拉多,547,sg411,411.0,普拉多,2024,normalized_name_match,True
+普拉多,547,sg411,411.0,普拉多,2025,normalized_name_match,True
+普拉多,547,sg411,411.0,普拉多,2026,normalized_name_match,True
+宝马3系,145,sg424,424.0,宝马3系,2022,normalized_name_match,True
+宝马3系,145,sg424,424.0,宝马3系,2023,normalized_name_match,True
+宝马3系,145,sg424,424.0,宝马3系,2024,normalized_name_match,True
+宝马3系,145,sg424,424.0,宝马3系,2025,normalized_name_match,True
+宝马3系,145,sg424,424.0,宝马3系,2026,normalized_name_match,True
+奥迪A6L,99,sg4313,4313.0,奥迪A6L,2022,normalized_name_match,True
+奥迪A6L,99,sg4313,4313.0,奥迪A6L,2023,normalized_name_match,True
+奥迪A6L,99,sg4313,4313.0,奥迪A6L,2024,normalized_name_match,True
+奥迪A6L,99,sg4313,4313.0,奥迪A6L,2025,normalized_name_match,True
+奥迪A6L,99,sg4313,4313.0,奥迪A6L,2026,normalized_name_match,True
+宝马5系,146,sg441,441.0,宝马5系,2022,normalized_name_match,True
+宝马5系,146,sg441,441.0,宝马5系,2023,normalized_name_match,True
+宝马5系,146,sg441,441.0,宝马5系,2024,normalized_name_match,True
+宝马5系,146,sg441,441.0,宝马5系,2025,normalized_name_match,True
+宝马5系,146,sg441,441.0,宝马5系,2026,normalized_name_match,True
+北京现代ix35,sg4431,sg4431,4431.0,北京现代ix35,2022,normalized_name_match,True
+北京现代ix35,sg4431,sg4431,4431.0,北京现代ix35,2023,normalized_name_match,True
+北京现代ix35,sg4431,sg4431,4431.0,北京现代ix35,2024,normalized_name_match,True
+北京现代ix35,sg4431,sg4431,4431.0,北京现代ix35,2025,normalized_name_match,True
+北京现代ix35,sg4431,sg4431,4431.0,北京现代ix35,2026,normalized_name_match,True
+高尔夫,410,sg4437,4437.0,高尔夫,2022,normalized_name_match,True
+高尔夫,410,sg4437,4437.0,高尔夫,2023,normalized_name_match,True
+高尔夫,410,sg4437,4437.0,高尔夫,2024,normalized_name_match,True
+高尔夫,410,sg4437,4437.0,高尔夫,2025,normalized_name_match,True
+高尔夫,410,sg4437,4437.0,高尔夫,2026,normalized_name_match,True
+标致408,336,sg4447,4447.0,标致408,2022,normalized_name_match,True
+标致408,336,sg4447,4447.0,标致408,2023,normalized_name_match,True
+标致408,336,sg4447,4447.0,标致408,2024,normalized_name_match,True
+标致408,336,sg4447,4447.0,标致408,2025,normalized_name_match,True
+标致408,336,sg4447,4447.0,标致408,2026,normalized_name_match,True
+传祺M8,1794,sg4470,4470.0,传祺M8,2022,normalized_name_match,True
+传祺M8,1794,sg4470,4470.0,传祺M8,2023,normalized_name_match,True
+传祺M8,1794,sg4470,4470.0,传祺M8,2024,normalized_name_match,True
+传祺M8,1794,sg4470,4470.0,传祺M8,2025,normalized_name_match,True
+传祺M8,1794,sg4470,4470.0,传祺M8,2026,normalized_name_match,True
+北京BJ40,sg4505,sg4505,,,2026,unmatched,False
+大众CC,416,sg4517,4517.0,大众CC,2022,normalized_name_match,True
+大众CC,416,sg4517,4517.0,大众CC,2023,normalized_name_match,True
+大众CC,416,sg4517,4517.0,大众CC,2024,normalized_name_match,True
+大众CC,416,sg4517,4517.0,大众CC,2025,normalized_name_match,True
+大众CC,416,sg4517,4517.0,大众CC,2026,normalized_name_match,True
+凯美瑞,535,sg4550,4550.0,凯美瑞,2022,normalized_name_match,True
+凯美瑞,535,sg4550,4550.0,凯美瑞,2023,normalized_name_match,True
+凯美瑞,535,sg4550,4550.0,凯美瑞,2024,normalized_name_match,True
+凯美瑞,535,sg4550,4550.0,凯美瑞,2025,normalized_name_match,True
+凯美瑞,535,sg4550,4550.0,凯美瑞,2026,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2021,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2022,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2023,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2024,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2025,normalized_name_match,True
+智跑,1123,sg4553,4553.0,智跑,2026,normalized_name_match,True
+菱智,445,sg4556,4556.0,菱智,2022,normalized_name_match,True
+菱智,445,sg4556,4556.0,菱智,2023,normalized_name_match,True
+菱智,445,sg4556,4556.0,菱智,2024,normalized_name_match,True
+菱智,445,sg4556,4556.0,菱智,2025,normalized_name_match,True
+菱智,445,sg4556,4556.0,菱智,2026,normalized_name_match,True
+威霆,244,sg4560,4560.0,威霆,2022,normalized_name_match,True
+威霆,244,sg4560,4560.0,威霆,2023,normalized_name_match,True
+威霆,244,sg4560,4560.0,威霆,2024,normalized_name_match,True
+威霆,244,sg4560,4560.0,威霆,2025,normalized_name_match,True
+威霆,244,sg4560,4560.0,威霆,2026,normalized_name_match,True
+勇士,sg4573,sg4573,4573.0,勇士,2021,normalized_name_match,True
+勇士,sg4573,sg4573,4573.0,勇士,2023,normalized_name_match,True
+勇士,sg4573,sg4573,4573.0,勇士,2024,normalized_name_match,True
+勇士,sg4573,sg4573,4573.0,勇士,2025,normalized_name_match,True
+勇士,sg4573,sg4573,4573.0,勇士,2026,normalized_name_match,True
+哈弗H6,649,sg4580,,,2024,unmatched,False
+哈弗H6,649,sg4580,,,2025,unmatched,False
+哈弗H6,649,sg4580,,,2026,unmatched,False
+五菱宏光,sg4613,sg4613,4613.0,五菱宏光,2025,normalized_name_match,True
+标致508,sg4715,sg4715,4715.0,标致508,2022,normalized_name_match,True
+标致508,sg4715,sg4715,4715.0,标致508,2023,normalized_name_match,True
+标致508,sg4715,sg4715,4715.0,标致508,2024,normalized_name_match,True
+标致508,sg4715,sg4715,4715.0,标致508,2025,normalized_name_match,True
+标致508,sg4715,sg4715,4715.0,标致508,2026,normalized_name_match,True
+骐达,sg5045,sg5045,5045.0,骐达,2022,normalized_name_match,True
+骐达,sg5045,sg5045,5045.0,骐达,2023,normalized_name_match,True
+骐达,sg5045,sg5045,5045.0,骐达,2024,normalized_name_match,True
+骐达,sg5045,sg5045,5045.0,骐达,2025,normalized_name_match,True
+骐达,sg5045,sg5045,5045.0,骐达,2026,normalized_name_match,True
+速派,1243,sg52,,,2025,unmatched,False
+本田CR-V,280,sg631,631.0,本田CR-V,2022,normalized_name_match,True
+本田CR-V,280,sg631,631.0,本田CR-V,2023,normalized_name_match,True
+本田CR-V,280,sg631,631.0,本田CR-V,2024,normalized_name_match,True
+本田CR-V,280,sg631,631.0,本田CR-V,2025,normalized_name_match,True
+本田CR-V,280,sg631,631.0,本田CR-V,2026,normalized_name_match,True
+嘉华,1126,sg651,651.0,嘉华,2022,normalized_name_match,True
+嘉华,1126,sg651,651.0,嘉华,2023,normalized_name_match,True
+嘉华,1126,sg651,651.0,嘉华,2024,normalized_name_match,True
+嘉华,1126,sg651,651.0,嘉华,2025,normalized_name_match,True
+嘉华,1126,sg651,651.0,嘉华,2026,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2015,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2022,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2023,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2024,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2025,normalized_name_match,True
+途安,sg678,sg678,678.0,途安,2026,normalized_name_match,True
+起亚K5凯酷,sg7075,sg7075,7075.0,起亚K5凯酷,2022,normalized_name_match,True
+起亚K5凯酷,sg7075,sg7075,7075.0,起亚K5凯酷,2023,normalized_name_match,True
+起亚K5凯酷,sg7075,sg7075,7075.0,起亚K5凯酷,2024,normalized_name_match,True
+起亚K5凯酷,sg7075,sg7075,7075.0,起亚K5凯酷,2025,normalized_name_match,True
+起亚K5凯酷,sg7075,sg7075,7075.0,起亚K5凯酷,2026,normalized_name_match,True
+楼兰,sg7129,sg7129,,,2021,unmatched,False
+宝马X1,148,sg7209,7209.0,宝马X1,2022,normalized_name_match,True
+宝马X1,148,sg7209,7209.0,宝马X1,2023,normalized_name_match,True
+宝马X1,148,sg7209,7209.0,宝马X1,2024,normalized_name_match,True
+宝马X1,148,sg7209,7209.0,宝马X1,2025,normalized_name_match,True
+宝马X1,148,sg7209,7209.0,宝马X1,2026,normalized_name_match,True
+红旗H7,sg7543,sg7543,,,2021,unmatched,False
+欧诺S,1475,sg7739,7739.0,欧诺S,2022,normalized_name_match,True
+欧诺S,1475,sg7739,7739.0,欧诺S,2023,normalized_name_match,True
+欧诺S,1475,sg7739,7739.0,欧诺S,2024,normalized_name_match,True
+欧诺S,1475,sg7739,7739.0,欧诺S,2025,normalized_name_match,True
+欧诺S,1475,sg7739,7739.0,欧诺S,2026,normalized_name_match,True
+起亚K3,1116,sg7889,7889.0,起亚K3,2022,normalized_name_match,True
+起亚K3,1116,sg7889,7889.0,起亚K3,2023,normalized_name_match,True
+起亚K3,1116,sg7889,7889.0,起亚K3,2024,normalized_name_match,True
+起亚K3,1116,sg7889,7889.0,起亚K3,2025,normalized_name_match,True
+起亚K3,1116,sg7889,7889.0,起亚K3,2026,normalized_name_match,True
+昂科拉,sg7891,sg7891,,,2023,unmatched,False
+艾力绅,282,sg7989,7989.0,艾力绅,2022,normalized_name_match,True
+艾力绅,282,sg7989,7989.0,艾力绅,2023,normalized_name_match,True
+艾力绅,282,sg7989,7989.0,艾力绅,2024,normalized_name_match,True
+艾力绅,282,sg7989,7989.0,艾力绅,2025,normalized_name_match,True
+艾力绅,282,sg7989,7989.0,艾力绅,2026,normalized_name_match,True
+胜达,1324,sg8000,8000.0,胜达,2022,normalized_name_match,True
+胜达,1324,sg8000,8000.0,胜达,2023,normalized_name_match,True
+胜达,1324,sg8000,8000.0,胜达,2024,normalized_name_match,True
+胜达,1324,sg8000,8000.0,胜达,2025,normalized_name_match,True
+胜达,1324,sg8000,8000.0,胜达,2026,normalized_name_match,True
+秦新能源,sg8120,sg8120,8120.0,秦新能源,2022,normalized_name_match,True
+秦新能源,sg8120,sg8120,8120.0,秦新能源,2023,normalized_name_match,True
+秦新能源,sg8120,sg8120,8120.0,秦新能源,2024,normalized_name_match,True
+秦新能源,sg8120,sg8120,8120.0,秦新能源,2025,normalized_name_match,True
+秦新能源,sg8120,sg8120,8120.0,秦新能源,2026,normalized_name_match,True
+奥迪Q3,100,sg8670,8670.0,奥迪Q3,2022,normalized_name_match,True
+奥迪Q3,100,sg8670,8670.0,奥迪Q3,2023,normalized_name_match,True
+奥迪Q3,100,sg8670,8670.0,奥迪Q3,2024,normalized_name_match,True
+奥迪Q3,100,sg8670,8670.0,奥迪Q3,2025,normalized_name_match,True
+奥迪Q3,100,sg8670,8670.0,奥迪Q3,2026,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2022,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2023,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2024,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2025,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2026,normalized_name_match,True
+雅阁,289,sg90,90.0,雅阁,2027,normalized_name_match,True
+名图,sg9281,sg9281,,,2021,unmatched,False
+凌派,sg9301,sg9301,,,2023,unmatched,False
+马自达CX-5,1016,sg9306,,,2025,unmatched,False
+长安CS95,1463,sg9307,,,2023,unmatched,False
+大通G10,1211,sg9312,9312.0,大通G10,2022,normalized_name_match,True
+大通G10,1211,sg9312,9312.0,大通G10,2023,normalized_name_match,True
+大通G10,1211,sg9312,9312.0,大通G10,2024,normalized_name_match,True
+大通G10,1211,sg9312,9312.0,大通G10,2025,normalized_name_match,True
+大通G10,1211,sg9312,9312.0,大通G10,2026,normalized_name_match,True
+奥迪A3,95,sg9550,9550.0,奥迪A3,2022,normalized_name_match,True
+奥迪A3,95,sg9550,9550.0,奥迪A3,2023,normalized_name_match,True
+奥迪A3,95,sg9550,9550.0,奥迪A3,2024,normalized_name_match,True
+奥迪A3,95,sg9550,9550.0,奥迪A3,2025,normalized_name_match,True
+奥迪A3,95,sg9550,9550.0,奥迪A3,2026,normalized_name_match,True
+五菱宏光S,sg9604,sg9604,9604.0,五菱宏光S,2020,normalized_name_match,True
+五菱宏光S,sg9604,sg9604,9604.0,五菱宏光S,2021,normalized_name_match,True
+哈弗H9,653,sg9626,,,2024,unmatched,False
+哈弗H9,653,sg9626,,,2025,unmatched,False
+哈弗H9,653,sg9626,,,2026,unmatched,False
+YARiS L 致炫,sg9666,sg9666,,,2022,unmatched,False
+长安CS75,1462,sg9759,,,2026,unmatched,False
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2022,normalized_name_match,True
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2023,normalized_name_match,True
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2024,normalized_name_match,True
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2025,normalized_name_match,True
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2026,normalized_name_match,True
+沃尔沃S60,1279,sg9767,9767.0,沃尔沃S60,2027,normalized_name_match,True
+唐新能源,sg9847,sg9847,9847.0,唐新能源,2022,normalized_name_match,True
+唐新能源,sg9847,sg9847,9847.0,唐新能源,2023,normalized_name_match,True
+唐新能源,sg9847,sg9847,9847.0,唐新能源,2024,normalized_name_match,True
+唐新能源,sg9847,sg9847,9847.0,唐新能源,2025,normalized_name_match,True
+唐新能源,sg9847,sg9847,9847.0,唐新能源,2026,normalized_name_match,True
+帕萨特,398,sg99,99.0,帕萨特,2022,normalized_name_match,True
+帕萨特,398,sg99,99.0,帕萨特,2023,normalized_name_match,True
+帕萨特,398,sg99,99.0,帕萨特,2024,normalized_name_match,True
+帕萨特,398,sg99,99.0,帕萨特,2025,normalized_name_match,True
+帕萨特,398,sg99,99.0,帕萨特,2026,normalized_name_match,True

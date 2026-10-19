@@ -1,0 +1,64 @@
+﻿check,passed
+all-FY2025-contribution keys,True
+all-FY2025-base_sales,True
+all-FY2025-current_sales,True
+all-FY2025-delta,True
+all-FY2025-brand_net_delta,True
+all-FY2025-positive_contribution,True
+all-FY2025-net_contribution,True
+all-H12026-contribution keys,True
+all-H12026-base_sales,True
+all-H12026-current_sales,True
+all-H12026-delta,True
+all-H12026-brand_net_delta,True
+all-H12026-positive_contribution,True
+all-H12026-net_contribution,True
+mpv-FY2025-contribution keys,True
+mpv-FY2025-base_sales,True
+mpv-FY2025-current_sales,True
+mpv-FY2025-delta,True
+mpv-FY2025-brand_net_delta,True
+mpv-FY2025-positive_contribution,True
+mpv-FY2025-net_contribution,True
+mpv-H12026-contribution keys,True
+mpv-H12026-base_sales,True
+mpv-H12026-current_sales,True
+mpv-H12026-delta,True
+mpv-H12026-brand_net_delta,True
+mpv-H12026-positive_contribution,True
+mpv-H12026-net_contribution,True
+concentration-sales,True
+concentration-cr3,True
+concentration-cr5,True
+concentration-hhi,True
+snapshot one-to-one,True
+snapshot year,True
+forecast history excludes prediction month,True
+source spot check 13 matches,True
+sha256 sales_filtered_24m.csv,True
+sha256 feature.csv,True
+Notebook every code cell executed,True
+Notebook no cell errors,True
+Excel four native charts,True
+Excel no cached formula errors xl/worksheets/sheet1.xml,True
+Excel no cached formula errors xl/worksheets/sheet2.xml,True
+Excel no cached formula errors xl/worksheets/sheet3.xml,True
+Excel no cached formula errors xl/worksheets/sheet4.xml,True
+Excel no cached formula errors xl/worksheets/sheet5.xml,True
+Excel KPI A6,True
+Excel KPI E6,True
+Excel KPI I6,True
+Excel KPI M6,True
+Excel chart cell-linked xl/drawings/charts/chart1.xml,True
+Excel explicit line color xl/drawings/charts/chart1.xml,True
+Excel explicit line color xl/drawings/charts/chart1.xml,True
+Excel explicit line color xl/drawings/charts/chart1.xml,True
+Excel explicit line color xl/drawings/charts/chart1.xml,True
+Excel explicit line color xl/drawings/charts/chart1.xml,True
+Excel chart cell-linked xl/drawings/charts/chart2.xml,True
+Excel chart cell-linked xl/drawings/charts/chart3.xml,True
+Excel explicit line color xl/drawings/charts/chart3.xml,True
+Excel explicit line color xl/drawings/charts/chart3.xml,True
+Excel chart cell-linked xl/drawings/charts/chart4.xml,True
+Excel explicit line color xl/drawings/charts/chart4.xml,True
+Excel explicit line color xl/drawings/charts/chart4.xml,True
