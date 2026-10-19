@@ -1,0 +1,5 @@
+﻿表,粒度,主键,主要用途
+dim_series,车系,series_id,品牌和原生类别映射
+fact_sales,车系×自然月,series_id+date,销量事实和异常/零值标记
+config_matched,匹配车系×配置记录年,series_id+year,配置映射及时间可用性审计
+config_snapshot,匹配车系,series_id,记录年不晚于2026的最近配置画像

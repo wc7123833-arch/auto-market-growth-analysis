@@ -1,0 +1,18 @@
+{
+  "commit": "135dbf3483403b69b9626f39a9ca5ce091ce6c73",
+  "retrieved_utc": "2026-10-18T12:45:03.263799+00:00",
+  "files": [
+    {
+      "file": "sales_filtered_24m.csv",
+      "repository_path": "data/processed/sales_filtered_24m.csv",
+      "url": "https://raw.githubusercontent.com/Yemyu/china-auto-market-analysis/135dbf3483403b69b9626f39a9ca5ce091ce6c73/data/processed/sales_filtered_24m.csv",
+      "sha256": "31bf8dc43c80a452dc489fdf9e454ee3bb472de63c256bf456424c1c4fd4ed1d"
+    },
+    {
+      "file": "feature.csv",
+      "repository_path": "data/raw/feature.csv",
+      "url": "https://raw.githubusercontent.com/Yemyu/china-auto-market-analysis/135dbf3483403b69b9626f39a9ca5ce091ce6c73/data/raw/feature.csv",
+      "sha256": "d482b43eb185a623849a8334d0a145c230f5fcc3f057e0a73f0a5cf14d183853"
+    }
+  ]
+}
