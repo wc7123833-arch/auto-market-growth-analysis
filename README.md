@@ -7,7 +7,7 @@
 
 围绕三个问题展开：样本中哪些品牌和车系在增长？增长来自哪些产品？这种增长是否持续？
 
-本项目参考 [Yemyu/china-auto-market-analysis](https://github.com/Yemyu/china-auto-market-analysis) 的公开销量与配置快照，缩小范围开展品牌增长与 MPV 专题分析。属于 AI 辅助完成的个人复现与分析项目，不代表真实公司任职或商业项目落地。
+本项目参考 [Yemyu/china-auto-market-analysis](https://github.com/Yemyu/china-auto-market-analysis) 的公开销量与配置快照，缩小范围开展品牌增长与 MPV 专题分析。
 
 ## 先看成果
 
